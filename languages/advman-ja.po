@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/advertising-manager\n"
+"POT-Creation-Date: 2009-07-02 00:56+0000\n"
+"PO-Revision-Date: 2009-03-06 00:37+0000\n"
+"Last-Translator: Takaki Sugihara <takaki.sugihara@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0\n"
+
+msgid " ago"
+msgstr " 前"
+
+msgid "(Press Cancel to do nothing, OK to copy)"
+msgstr "（何もしない場合はキャンセルを押します。コピーするにはOKを押します）"
+
+msgid "(Press Cancel to keep, OK to delete)"
+msgstr "（保存する場合はキャンセルを押します。削除するにはOKを押します）"
+
+msgid "120 x 600 Skyscraper"
+msgstr "120 x 600　スカイスクレーパー"
+
+msgid "160 x 600 Wide Skyscraper"
+msgstr "160 x 600 ワイド スカイスクレーパー"
+
+msgid "234 x 60 Half Banner"
+msgstr "234 x 60　ハーフバナー"
+
+msgid "300 x 250 Medium Rectangle"
+msgstr "300 x 250　中ぐらいの長方形"
+
+msgid "468 x 60 Banner"
+msgstr "468 x 60 バナー"
+
+msgid "728 x 90 Leaderboard"
+msgstr "728 x 90 リーダーボード"
+
+msgid "> 30 days"
+msgstr "> 30日"
+
+msgid "Account Details"
+msgstr "アカウント詳細"
+
+msgid "Account ID:"
+msgstr "アカウントID:"
+
+msgid "Active"
+msgstr "アクティブ"
+
+msgid "Ad Code"
+msgstr "広告コード"
+
+msgid "Ad Format"
+msgstr "広告フォーマット"
+
+msgid "Ad Settings"
+msgstr "広告設定"
+
+msgid "Ad Status"
+msgstr "広告状態"
+
+msgid "Ad Type:"
+msgstr "広告タイプ："
+
+msgid "Ad Unit"
+msgstr "広告ユニット："
+
+msgid "Ads"
+msgstr "広告"
+
+msgid "Ads by %s"
+msgstr "%sによる広告"
+
+msgid "Ads with the same name will rotate according to their relative weights."
+msgstr "同じ名前の広告は、相対的な重さによって回転します。"
+
+msgid "Advanced Options"
+msgstr "アドバンスオプション"
+
+msgid "Advertiser's ad text here"
+msgstr "広告主の広告テキストをここに"
+
+msgid "Advertising Manager"
+msgstr "宣伝マネジャー"
+
+msgid "Advertising Manager supports most Ad networks."
+msgstr "宣伝マネジャーは多くの広告ネットワークをサポートします。"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Are you sure?"
+msgstr "本当にしますか？"
+
+msgid "Average eCPM:"
+msgstr "平均 eCPM："
+
+msgid "Background:"
+msgstr "背景："
+
+msgid "Border:"
+msgstr "ボーダー："
+
+msgid "Bulk Actions"
+msgstr "バルクアクション"
+
+msgid "By Author:"
+msgstr "著者別："
+
+msgid ""
+"By enabling the OpenX Market, an alternative ad may show if it will make you "
+"more money than the existing ad.  The floor price is the eCPM (revenue per "
+"1000 ads) that your ad network pays."
+msgstr ""
+"OpenXマーケットを有効化することで、既存の広告より収益力がある別の広告があれ"
+"ば、そちらを表示します。最低値段は広告ネットワークが支払うeCPM(1000広告毎のレ"
+"ベニュー)です。"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Channel:"
+msgstr "チャンネル："
+
+msgid "Check for updates"
+msgstr "更新を確認"
+
+msgid ""
+"Checking for updates will keep you informed of not only updates, but of any "
+"offers from advertisers who want to buy your ad space."
+msgstr ""
+"更新を確認することで、更新情報がわかるだけでなく、貴方の広告スペースを購入し"
+"たい広告主からのオファーを知ることが出来ます。"
+
+msgid "Clear"
+msgstr "クリア"
+
+msgid "Code"
+msgstr "コード"
+
+msgid ""
+"Control and arrange your Advertising and Referral blocks on your Wordpress "
+"blog. With Widget and inline post support, integration with all major ad "
+"networks."
+msgstr ""
+"ワードプレスブログの宣伝と紹介ブロックをコントロール・アレンジしよう。ウィ"
+"ジェットとインラインポストサポートされており、全てのメジャーな広告ネットワー"
+"ク対応。"
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "Copy this ad"
+msgstr "この広告をコピー"
+
+msgid "Create Ad"
+msgstr "広告を作成"
+
+msgid "Create New"
+msgstr "新規作成"
+
+msgid "Create New Ad"
+msgstr "新しい広告を作成"
+
+msgid "Custom"
+msgstr "カスタム"
+
+msgid "Custom height for this unit."
+msgstr "このユニットのカスタム高さ"
+
+msgid "Custom width for this unit."
+msgstr "このユニットのカスタム幅"
+
+msgid "Default"
+msgstr "ディフォルト"
+
+msgid "Default floor price:"
+msgstr "ディフォルト最低値段"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete this ad"
+msgstr "この広告を削除"
+
+msgid "Dimensions:"
+msgstr "サイズ："
+
+msgid "Display any notes about this ad here:"
+msgstr "この広告についてのノートをここで表示："
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Edit %s Defaults"
+msgstr "%s ディフォルトを編集"
+
+msgid "Edit Ads"
+msgstr "広告を編集"
+
+msgid "Edit Settings for %s Ad:"
+msgstr "%s広告の設定を編集："
+
+msgid "Edit the ad &quot;%s&quot;"
+msgstr "広告&quot;%s&quot;を編集"
+
+msgid "Edit the ad network &quot;%s&quot;"
+msgstr "広告ネットワーク&quot;%s&quot;を編集"
+
+msgid "Filter"
+msgstr "フィルター"
+
+msgid "Format"
+msgstr "フォーマット"
+
+msgid "Format:"
+msgstr "フォーマット："
+
+msgid "HTML Code After"
+msgstr "HTMLコード後"
+
+msgid "HTML Code Before"
+msgstr "HTMLコード前"
+
+msgid "History"
+msgstr "履歴"
+
+msgid "Identifier:"
+msgstr "識別子："
+
+msgid "Image Referral"
+msgstr "イメージ紹介"
+
+msgid "Import"
+msgstr "インポート"
+
+msgid "Import to New Ad Unit&raquo;"
+msgstr "新しい広告ユニット&raquo;へインポートする"
+
+msgid "Last Edit"
+msgstr "最終編集"
+
+msgid "Last edited"
+msgstr "最終編集"
+
+msgid "Link Unit"
+msgstr "リンクユニット："
+
+msgid "Link:"
+msgstr "リンク："
+
+msgid "Linked Title"
+msgstr "リンクされた題名"
+
+msgid "Manage Your Advertising"
+msgstr "貴方の広告を管理する"
+
+msgid "Modify"
+msgstr "変更"
+
+msgid "More than %d days ago"
+msgstr "%d日以上前"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "Notes"
+msgstr "ノート"
+
+msgid "OpenX Market Enabled"
+msgstr "OpenXマーケット有効化"
+
+msgid "Optimization"
+msgstr "最適化"
+
+msgid "Optimize ads on OpenX Market by default"
+msgstr "デフォルトで広告をOpenXマーケットで最適化する"
+
+msgid "Partner ID:"
+msgstr "パートナーID："
+
+msgid "Paused"
+msgstr "一時停止"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Preview Ad"
+msgstr "広告をプレビュー"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save &raquo;"
+msgstr "&raquo;を保存"
+
+msgid "Save Changes"
+msgstr "変更を保存"
+
+msgid "Save Settings"
+msgstr "設定を保存"
+
+msgid "Scott Switzer, Martin Fitzpatrick"
+msgstr "スコット・スウィツァー、マーティン・フィッツパトリック"
+
+msgid "Select one of the supported ad format sizes."
+msgstr "サポートされている広告フォーマットサイズの１つを選んでください。"
+
+msgid "Settings saved."
+msgstr "設定が保存されました。"
+
+msgid "Shortcuts"
+msgstr "ショートカット"
+
+msgid "Simply <strong>paste your Ad Code below</strong> and Import!"
+msgstr "<strong>以下に広告コードを貼り付けて</strong>インポートしてください！ "
+
+msgid "Slot ID:"
+msgstr "スロットID:"
+
+msgid "Status Text:"
+msgstr "ステータステキスト："
+
+msgid "Status:"
+msgstr "ステータス："
+
+msgid "Step 1: Import Your Ad Code"
+msgstr "ステップ1：広告コードをインポートする"
+
+msgid "Text Referral"
+msgstr "テキスト紹介"
+
+msgid "Text:"
+msgstr "テキスト："
+
+msgid "The last 30 days of revisions are stored for each ad."
+msgstr "各広告の最近の30日間の修正が保存されます。"
+
+msgid "Title:"
+msgstr "題名："
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Unknown"
+msgstr "身元不明"
+
+msgid "Updates"
+msgstr "更新"
+
+msgid "Use Default"
+msgstr "ディフォルトを使用"
+
+msgid "View active ads only"
+msgstr "アクティブな広告だけを見る"
+
+msgid "View all ad statuses"
+msgstr "全ての広告状況を見る"
+
+msgid "View all ad types"
+msgstr "全ての広告タイプを見る"
+
+msgid "View only %s ads"
+msgstr "%s広告だけを見る"
+
+msgid "View paused ads only"
+msgstr "中断している広告だけを見る"
+
+msgid ""
+"Weight determines how often this ad is displayed relative to the other ads "
+"with the same name.  A weight of '0' will stop this ad from displaying. "
+"OpenX Market optimised ads will display an alternative ad if it will make "
+"more money than this ad. Set the avarage amount you make from this network "
+"per 1000 ads (eCPM), and Advertising Manager will automatically optimise on "
+"the OpenX Market."
+msgstr ""
+"重さは、この広告が同じ名前の他の広告と比べてどれくらいの頻度で表示されるかを"
+"決めます。重さ「0」だとこの広告は表示されません。OpenXマーケット最適化広告"
+"は、この広告より収益力がある別の広告があれば、そちらを表示します。このネット"
+"ワークの1000広告（eCPM）毎の平均収益を設定すれば、広告マネジャーが自動的に"
+"OpenXマーケットで最適化します。"
+
+msgid "Weight:"
+msgstr "重さ："
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "You are about to copy the %s ad:"
+msgstr "%s広告をコピーします。"
+
+msgid "You are about to permanently delete the %s ad:"
+msgstr "%s広告を完全に削除します。"
+
+msgid "[Default]"
+msgstr "[ディフォルト]"
+
+msgid "ago"
+msgstr "前"
+
+msgid "by"
+msgstr "よって"
+
+msgid "by Unknown"
+msgstr "身元不明によって"
+
+msgid "http://code.openx.org/projects/show/advertising-manager"
+msgstr "http://code.openx.org/projects/show/advertising-manager"
+
+msgid "www.advertiser-url.com"
+msgstr "www.advertiser-url.com"

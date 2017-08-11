@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/advertising-manager\n"
+"POT-Creation-Date: 2009-07-02 00:56+0000\n"
+"PO-Revision-Date: 2009-03-02 18:29+0100\n"
+"Last-Translator: attila bielik <a.bielik@lajt.hu>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
+
+msgid " ago"
+msgstr "ezelőtt"
+
+msgid "120 x 600 Skyscraper"
+msgstr "120 x 600 Skyscraper"
+
+msgid "160 x 600 Wide Skyscraper"
+msgstr "160 x 600 Széles Skyscraper"
+
+msgid "234 x 60 Half Banner"
+msgstr "234 x 60 fél banner"
+
+msgid "300 x 250 Medium Rectangle"
+msgstr "300 x 250 Közepes méretű téglaalap "
+
+msgid "468 x 60 Banner"
+msgstr "468 x 60 Banner"
+
+msgid "728 x 90 Leaderboard"
+msgstr "728 x 90 Leaderboard"
+
+msgid "> 30 days"
+msgstr "> 30 nap"
+
+msgid "Account Details"
+msgstr "A felhasználói fiók részletes adatai"
+
+msgid "Account ID:"
+msgstr "Felhasználói fiók azonosítója:"
+
+msgid "Active"
+msgstr "Aktív"
+
+msgid "Ad Code"
+msgstr "Hirdetés hozzáadása"
+
+msgid "Ad Format"
+msgstr "Hirdetés formátum"
+
+msgid "Ad Settings"
+msgstr "Hirdetési beállítások"
+
+msgid "Ad Status"
+msgstr "Hirdetés állapota"
+
+msgid "Ad Type:"
+msgstr "Hirdetés típusa:"
+
+msgid "Ad Unit"
+msgstr "Hirdetési egység:"
+
+msgid "Ads with the same name will rotate according to their relative weights."
+msgstr ""
+"Az azonos nevű hirdetések a relatív fontosságuknak megfelelően, váltakozva "
+"fognak megjelenni."
+
+msgid "Advertising Manager"
+msgstr "Advertising Manager"
+
+msgid "Advertising Manager supports most Ad networks."
+msgstr "Az Advertising Manager a legtöbb hirdetési hálózatot támogatja."
+
+msgid "Apply"
+msgstr "Alkalmaz"
+
+msgid "Average eCPM:"
+msgstr "Átlagos eCPM:"
+
+msgid "Background:"
+msgstr "Háttér:"
+
+msgid "Border:"
+msgstr "Keret:"
+
+msgid "By Author:"
+msgstr "Sterző szerint:"
+
+msgid ""
+"By enabling the OpenX Market, an alternative ad may show if it will make you "
+"more money than the existing ad.  The floor price is the eCPM (revenue per "
+"1000 ads) that your ad network pays."
+msgstr ""
+"Ha az OpenX Market engedélyezett, akkor másik reklám jelenhet meg a "
+"jelenlegi reklám helyett, ha az  több pénz hoz. Az árhatár az eCPM (1000 "
+"hirdetésenkénti bevétel), amit az ön hirdetési hálózata fizet."
+
+msgid "Cancel"
+msgstr "Mégse"
+
+msgid "Channel:"
+msgstr "Csatorna:"
+
+msgid "Clear"
+msgstr "Törlés"
+
+msgid "Code"
+msgstr "Kód"
+
+msgid ""
+"Control and arrange your Advertising and Referral blocks on your Wordpress "
+"blog. With Widget and inline post support, integration with all major ad "
+"networks."
+msgstr ""
+"Irányítsa és rendezze hirdetéseit és közvetítési blokkjait a Wordpress "
+"blogban. Widgettel és beépített poszt támogatással, az összes nagyobb "
+"hirdetőszerverrel integrálva."
+
+msgid "Copy this ad"
+msgstr "E hirdetés másolása"
+
+msgid "Create New Ad"
+msgstr "Új hirdetés létrehozása"
+
+msgid "Custom"
+msgstr "Egyéni"
+
+msgid "Custom height for this unit."
+msgstr "Ezen egység egyéni magassága"
+
+msgid "Custom width for this unit."
+msgstr "Ezen egység egyéni szélessége"
+
+msgid "Default"
+msgstr "Alapértelmezés"
+
+msgid "Default floor price:"
+msgstr "Alapértelmezett árhatár:"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Delete this ad"
+msgstr "E hirdetés törlése"
+
+msgid "Dimensions:"
+msgstr "Méretek:"
+
+msgid "Display any notes about this ad here:"
+msgstr "Ezen hirdetés megjegyzéseinek megjelenítése itt:"
+
+msgid "Format"
+msgstr "Formátum"
+
+msgid "Format:"
+msgstr "Formátum:"
+
+msgid "HTML Code After"
+msgstr "HTML kód utána"
+
+msgid "HTML Code Before"
+msgstr "HTML kód előtte"
+
+msgid "History"
+msgstr "Előzmény"
+
+msgid "Identifier:"
+msgstr "Azonosító:"
+
+msgid "Image Referral"
+msgstr "Kép hivatkozás"
+
+msgid "Import"
+msgstr "Importálás"
+
+msgid "Import to New Ad Unit&raquo;"
+msgstr "Importálás új hirdetési egységbe"
+
+msgid "Last Edit"
+msgstr "Utolsó szerkesztés"
+
+msgid "Last edited"
+msgstr "Legutóbb szerkesztett"
+
+msgid "Link Unit"
+msgstr "Csatolási egység"
+
+msgid "Link:"
+msgstr "Link:"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "Notes"
+msgstr "Megjegyzések"
+
+msgid "Optimization"
+msgstr "Optimalizálás"
+
+msgid "Optimize ads on OpenX Market by default"
+msgstr "Alapértelmezként optimálja a hirdetéseket az OpenX Market-ben"
+
+msgid "Partner ID:"
+msgstr "Partner azonosító:"
+
+msgid "Paused"
+msgstr "Szüneteltett"
+
+msgid "Preview"
+msgstr "Előnézet"
+
+msgid "Preview Ad"
+msgstr "Hirdetés előnézete"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Save Changes"
+msgstr "Változások mentése"
+
+msgid "Save Settings"
+msgstr "Beállítások elmentése"
+
+msgid "Scott Switzer, Martin Fitzpatrick"
+msgstr "Scott Switzer, Martin Fitzpatrick"
+
+msgid "Select one of the supported ad format sizes."
+msgstr "Válasszon ki egyet a támogatott hirdetésformátum méretek közül."
+
+msgid "Settings saved."
+msgstr "A beállítások el lettek mentve."
+
+msgid "Shortcuts"
+msgstr "Parancsikonok"
+
+msgid "Simply <strong>paste your Ad Code below</strong> and Import!"
+msgstr ""
+"Egyszerűen <strong>illessze be a hirdetési kódját lent</strong> és "
+"importálja!"
+
+msgid "Slot ID:"
+msgstr "Slot azonosító:"
+
+msgid "Status Text:"
+msgstr "Állapot szöveg:"
+
+msgid "Status:"
+msgstr "Állapot:"
+
+msgid "Step 1: Import Your Ad Code"
+msgstr "1. lépés: Az ön hirdetési kódjának importálása"
+
+msgid "Text Referral"
+msgstr "Szöveg hivatkozás"
+
+msgid "Text:"
+msgstr "Szöveg:"
+
+msgid "The last 30 days of revisions are stored for each ad."
+msgstr ""
+"Az egyes hirdetések, az elmúlt 30 nap során történt módosításai tárolásra "
+"kerülnek."
+
+msgid "Title:"
+msgstr "Cím:"
+
+msgid "Type"
+msgstr "Típus"
+
+msgid "Use Default"
+msgstr "Alapértelmezés használata"
+
+msgid ""
+"Weight determines how often this ad is displayed relative to the other ads "
+"with the same name.  A weight of '0' will stop this ad from displaying. "
+"OpenX Market optimised ads will display an alternative ad if it will make "
+"more money than this ad. Set the avarage amount you make from this network "
+"per 1000 ads (eCPM), and Advertising Manager will automatically optimise on "
+"the OpenX Market."
+msgstr ""
+"A Fontosság határozza meg, hogy az azonos nevű hirdetésekhez képest ez a "
+"hirdetés milyen gyakran jelenjen meg. A '0' Fontosság megakadályozza e "
+"reklám megjelenését. Az OpenX Market által optimált reklámok fognak "
+"megjelenni e helyett a reklám helyett, ha azok  több pénz hoznak. Állítsa be "
+"az erre a hálózatra vonatkozó 1000 hirdetésenkéni átlagos összeget (eCPM), "
+"és a Advertising Manager automatikusan optimálja az OpenX Marketben"
+
+msgid "Weight:"
+msgstr "Fontosság:"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "[Default]"
+msgstr "[Alapértelmezés]"
+
+msgid "http://code.openx.org/projects/show/advertising-manager"
+msgstr "http://code.openx.org/projects/show/advertising-manager"

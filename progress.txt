@@ -1,0 +1,17 @@
+// PROGRESS REPORT OF EXISTING TRANSLATIONS
+
+    LANGUAGE:	    PERCENTAGE COMPLETE:
+
+1. English-US		76%
+2. Greek		40%
+3. Japanese		40%
+4. Turkish		40%
+5. Germany-DE		35%
+6. Hungarian-HU		28%
+7. Indonesian-ID 	28%
+8. Korea-KR		28%
+9. Spanish-ES		28%
+10. Portuguese-BR	6%
+11. Thai		4%
+12. Arabic		2%
+13. Russian-RU		2%

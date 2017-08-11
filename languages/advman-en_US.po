@@ -1,0 +1,795 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/advertising-manager\n"
+"POT-Creation-Date: 2009-07-02 00:56+0000\n"
+"PO-Revision-Date: 2009-07-02 02:02+0100\n"
+"Last-Translator: Scott Switzer <scott@switzer.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0\n"
+
+msgid " ago"
+msgstr " ago"
+
+msgid "%1$s x %2$s Banner"
+msgstr "%1$s x %2$s Banner"
+
+msgid "%1$s x %2$s Banner, %3$s Links"
+msgstr "%1$s x %2$s Banner, %3$s Links"
+
+msgid "%1$s x %2$s Button"
+msgstr "%1$s x %2$s Button"
+
+msgid "%1$s x %2$s Button, %3$s Links"
+msgstr "%1$s x %2$s Button, %3$s Links"
+
+msgid "%1$s x %2$s Half Banner"
+msgstr "%1$s x %2$s Half Banner"
+
+msgid "%1$s x %2$s Half Banner, %3$s Links"
+msgstr "%1$s x %2$s Half Banner, %3$s Links"
+
+msgid "%1$s x %2$s Large Leaderboard"
+msgstr "%1$s x %2$s Large Leaderboard"
+
+msgid "%1$s x %2$s Large Rectangle"
+msgstr "%1$s x %2$s Large Rectangle"
+
+msgid "%1$s x %2$s Leaderboard"
+msgstr "%1$s x %2$s Leaderboard"
+
+msgid "%1$s x %2$s Medium Rectangle"
+msgstr "%1$s x %2$s Medium Rectangle"
+
+msgid "%1$s x %2$s Mega Unit"
+msgstr "%1$s x %2$s Mega Unit"
+
+msgid "%1$s x %2$s Micro Bar"
+msgstr "%1$s x %2$s Micro Bar"
+
+msgid "%1$s x %2$s Mini Wide Rectangle"
+msgstr "%1$s x %2$s Mini Wide Rectangle"
+
+msgid "%1$s x %2$s Skyscraper"
+msgstr "%1$s x %2$s Skyscraper"
+
+msgid "%1$s x %2$s Small Leaderboard"
+msgstr "%1$s x %2$s Small Leaderboard"
+
+msgid "%1$s x %2$s Small Rectangle"
+msgstr "%1$s x %2$s Small Rectangle"
+
+msgid "%1$s x %2$s Small Square"
+msgstr "%1$s x %2$s Small Square"
+
+msgid "%1$s x %2$s Small Wide Rectangle"
+msgstr "%1$s x %2$s Small Wide Rectangle"
+
+msgid "%1$s x %2$s Square"
+msgstr "%1$s x %2$s Square"
+
+msgid "%1$s x %2$s Tall Banner"
+msgstr "%1$s x %2$s Tall Banner"
+
+msgid "%1$s x %2$s Tall Button, %3$s Links"
+msgstr "%1$s x %2$s Tall Button, %3$s Links"
+
+msgid "%1$s x %2$s Tall Half Banner"
+msgstr "%1$s x %2$s Tall Half Banner"
+
+msgid "%1$s x %2$s Tall Half Banner, %3$s Links"
+msgstr "%1$s x %2$s Tall Half Banner, %3$s Links"
+
+msgid "%1$s x %2$s Tall Rectangle"
+msgstr "%1$s x %2$s Tall Rectangle"
+
+msgid "%1$s x %2$s Thin Banner, %3$s Links"
+msgstr "%1$s x %2$s Thin Banner, %3$s Links"
+
+msgid "%1$s x %2$s Vertical Banner"
+msgstr "%1$s x %2$s Vertical Banner"
+
+msgid "%1$s x %2$s Vertical Rectangle"
+msgstr "%1$s x %2$s Vertical Rectangle"
+
+msgid "%1$s x %2$s Wide Half Banner"
+msgstr "%1$s x %2$s Wide Half Banner"
+
+msgid "%1$s x %2$s Wide Rectangle"
+msgstr "%1$s x %2$s Wide Rectangle"
+
+msgid "%1$s x %2$s Wide Skyscraper"
+msgstr "%1$s x %2$s Wide Skyscraper"
+
+msgid "%s home page"
+msgstr "%s home page"
+
+msgid "(Press Cancel to do nothing, OK to copy)"
+msgstr "(Press Cancel to do nothing, OK to copy)"
+
+msgid "(Press Cancel to keep, OK to delete)"
+msgstr "(Press Cancel to keep, OK to delete)"
+
+msgid "120 x 600 Skyscraper"
+msgstr "120 x 600 Skyscraper"
+
+msgid "160 x 600 Wide Skyscraper"
+msgstr "160 x 600 Wide Skyscraper"
+
+msgid "234 x 60 Half Banner"
+msgstr "234 x 60 Half Banner"
+
+msgid "300 x 250 Medium Rectangle"
+msgstr "300 x 250 Medium Rectangle"
+
+msgid "468 x 60 Banner"
+msgstr "468 x 60 Banner"
+
+msgid "728 x 90 Leaderboard"
+msgstr "728 x 90 Leaderboard"
+
+msgid ""
+"<strong>Advertising Manager</strong> has been upgraded from your "
+"<strong>Adsense Manager</strong> settings."
+msgstr ""
+"<strong>Advertising Manager</strong> has been upgraded from your "
+"<strong>Adsense Manager</strong> settings."
+
+msgid ""
+"<strong>Default Ad</strong> indicates which ad will be displayed in a space "
+"on your site where no specific ID is used."
+msgstr ""
+"<strong>Default Ad</strong> indicates which ad will be displayed in a space "
+"on your site where no specific ID is used."
+
+msgid "> 30 days"
+msgstr "> 30 days"
+
+msgid "Account Details"
+msgstr "Account Details"
+
+msgid "Account ID:"
+msgstr "Account ID:"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Ad Appearance"
+msgstr "Ad Appearance"
+
+msgid "Ad Code"
+msgstr "Ad Code"
+
+msgid "Ad Format"
+msgstr "Ad Format"
+
+msgid "Ad Settings"
+msgstr "Ad Settings"
+
+msgid "Ad Status"
+msgstr "Ad Status"
+
+msgid "Ad Type:"
+msgstr "Ad Type:"
+
+msgid "Ad Unit"
+msgstr "Ad Unit"
+
+msgid "Ad links"
+msgstr "Ad links"
+
+msgid "Ad: "
+msgstr "Ad: "
+
+msgid "Ads"
+msgstr "Ads"
+
+msgid "Ads by %s"
+msgstr "Ads by %s"
+
+msgid ""
+"Ads can be included in <strong>templates</strong> using %1$s or %2$s for the "
+"default ad."
+msgstr ""
+"Ads can be included in <strong>templates</strong> using %1$s or %2$s for the "
+"default ad."
+
+msgid ""
+"Ads can be inserted into <strong>posts / pages</strong> using %1$s or %2$s "
+"for the default Ad."
+msgstr ""
+"Ads can be inserted into <strong>posts / pages</strong> using %1$s or %2$s "
+"for the default Ad."
+
+msgid ""
+"Ads with the <strong>same name</strong> rotate according to their relative "
+"weights."
+msgstr ""
+"Ads with the <strong>same name</strong> rotate according to their relative "
+"weights."
+
+msgid "Ads with the same name will rotate according to their relative weights."
+msgstr ""
+"Ads with the same name will rotate according to their relative weights."
+
+msgid "Advanced Options"
+msgstr "Advanced Options"
+
+msgid "Advertisement"
+msgstr "Advertisement"
+
+msgid "Advertiser's ad text here"
+msgstr "Advertiser's ad text here"
+
+msgid "Advertising Manager"
+msgstr "Advertising Manager"
+
+msgid "Advertising Manager supports most Ad networks."
+msgstr "Advertising Manager supports most Ad networks."
+
+msgid "Advertising Manager will automatically detect many ad network tags."
+msgstr "Advertising Manager will automatically detect many ad network tags."
+
+msgid "All ad types"
+msgstr "All ad types"
+
+msgid "Alternate Text:"
+msgstr "Alternate Text:"
+
+msgid "Alternate URL:"
+msgstr "Alternate URL:"
+
+msgid "Alternate text will display as an image tooltip."
+msgstr "Alternate text will display as an image tooltip."
+
+msgid "An ad from the Advertising Manager plugin"
+msgstr "An ad from the Advertising Manager plugin"
+
+msgid ""
+"Any networks not supported directly can still be managed as HTML Code units."
+msgstr ""
+"Any networks not supported directly can still be managed as HTML Code units."
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "Archives"
+msgstr "Archives"
+
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+msgid "Arial"
+msgstr "Arial"
+
+msgid "Average eCPM:"
+msgstr "Average eCPM:"
+
+msgid "Background:"
+msgstr "Background:"
+
+msgid "Border:"
+msgstr "Border:"
+
+msgid "Bulk Actions"
+msgstr "Bulk Actions"
+
+msgid "By Author:"
+msgstr "By Author:"
+
+msgid "By Page Type:"
+msgstr "By Page Type:"
+
+msgid ""
+"By editing the <strong>Network Defaults</strong> you can update all ads from "
+"a network at once."
+msgstr ""
+"By editing the <strong>Network Defaults</strong> you can update all ads from "
+"a network at once."
+
+msgid ""
+"By enabling the OpenX Market, an alternative ad may show if it will make you "
+"more money than the existing ad.  The floor price is the eCPM (revenue per "
+"1000 ads) that your ad network pays."
+msgstr ""
+"By enabling the OpenX Market, an alternative ad may show if it will make you "
+"more money than the existing ad.  The floor price is the eCPM (revenue per "
+"1000 ads) that your ad network pays."
+
+msgid "Campaign:"
+msgstr "Campaign:"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Channel:"
+msgstr "Channel:"
+
+msgid "Check for updates"
+msgstr "Check for updates"
+
+msgid ""
+"Checking for updates will keep you informed of not only updates, but of any "
+"offers from advertisers who want to buy your ad space."
+msgstr ""
+"Checking for updates will keep you informed of not only updates, but of any "
+"offers from advertisers who want to buy your ad space."
+
+msgid "Choose how you want your ad to appear."
+msgstr "Choose how you want your ad to appear."
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Comic Sans MS"
+msgstr "Comic Sans MS"
+
+msgid ""
+"Control and arrange your Advertising and Referral blocks on your Wordpress "
+"blog. With Widget and inline post support, integration with all major ad "
+"networks."
+msgstr ""
+"Control and arrange your Advertising and Referral blocks on your Wordpress "
+"blog. With Widget and inline post support, integration with all major ad "
+"networks."
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Copy this ad"
+msgstr "Copy this ad"
+
+msgid "Courier"
+msgstr "Courier"
+
+msgid "Create Ad"
+msgstr "Create Ad"
+
+msgid "Create New"
+msgstr "Create New"
+
+msgid "Create New Ad"
+msgstr "Create New Ad"
+
+msgid "Custom"
+msgstr "Custom"
+
+msgid "Custom height for this unit."
+msgstr "Custom height for this unit."
+
+msgid "Custom width and height"
+msgstr "Custom width and height"
+
+msgid "Custom width for this unit."
+msgstr "Custom width for this unit."
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Default Ad"
+msgstr "Default Ad"
+
+msgid "Default Code Settings"
+msgstr "Default Code Settings"
+
+msgid "Default Optimization Settings"
+msgstr "Default Optimization Settings"
+
+msgid "Default floor price:"
+msgstr "Default floor price:"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Delete this ad"
+msgstr "Delete this ad"
+
+msgid "Dimensions:"
+msgstr "Dimensions:"
+
+msgid "Display any notes about this ad here:"
+msgstr "Display any notes about this ad here:"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Edit %s Defaults"
+msgstr "Edit %s Defaults"
+
+msgid "Edit %s Network Settings"
+msgstr "Edit %s Network Settings"
+
+msgid "Edit Ads"
+msgstr "Edit Ads"
+
+msgid "Edit Settings for %s Ad:"
+msgstr "Edit Settings for %s Ad:"
+
+msgid "Edit the ad &quot;%s&quot;"
+msgstr "Edit the ad &quot;%s&quot;"
+
+msgid "Edit the ad network &quot;%s&quot;"
+msgstr "Edit the ad network &quot;%s&quot;"
+
+msgid ""
+"Enter the RGB value of the color, or selet the font in the appropriate box.  "
+"The sample ad to the right will show you what your selections look like."
+msgstr ""
+"Enter the RGB value of the color, or selet the font in the appropriate box.  "
+"The sample ad to the right will show you what your selections look like."
+
+msgid "Enter the information specific to your %s account."
+msgstr "Enter the information specific to your %s account."
+
+msgid "Enter the name for this ad."
+msgstr "Enter the name for this ad."
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Format:"
+msgstr "Format:"
+
+msgid "Georgia"
+msgstr "Georgia"
+
+msgid "HTML Code After"
+msgstr "HTML Code After"
+
+msgid "HTML Code Before"
+msgstr "HTML Code Before"
+
+msgid "Hide widget formatting"
+msgstr "Hide widget formatting"
+
+msgid "History"
+msgstr "History"
+
+msgid "Homepage"
+msgstr "Homepage"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Identifier:"
+msgstr "Identifier:"
+
+msgid ""
+"If you want to change your ad network tag, you need to import the new tag "
+"again."
+msgstr ""
+"If you want to change your ad network tag, you need to import the new tag "
+"again."
+
+msgid ""
+"If your ad size is not one of the standard sizes, select Custom and fill in "
+"your size."
+msgstr ""
+"If your ad size is not one of the standard sizes, select Custom and fill in "
+"your size."
+
+msgid "Image Referral"
+msgstr "Image Referral"
+
+msgid "Image ads"
+msgstr "Image ads"
+
+msgid "Image referrals"
+msgstr "Image referrals"
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Import to New Ad Unit&raquo;"
+msgstr "Import to New Ad Unit&raquo;"
+
+msgid "Insert Ad..."
+msgstr "Insert Ad..."
+
+msgid "Insert an ad from Advertising Manager to my content"
+msgstr "Insert an ad from Advertising Manager to my content"
+
+msgid "Last Edit"
+msgstr "Last Edit"
+
+msgid "Last edited"
+msgstr "Last edited"
+
+msgid "Link Unit"
+msgstr "Link Unit"
+
+msgid "Link:"
+msgstr "Link:"
+
+msgid "Linked Title"
+msgstr "Linked Title"
+
+msgid "Manage Your Advertising"
+msgstr "Manage Your Advertising"
+
+msgid "Max Ads Per Page:"
+msgstr "Max Ads Per Page:"
+
+msgid "Modify"
+msgstr "Modify"
+
+msgid "More than %d days ago"
+msgstr "More than %d days ago"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "No"
+msgstr "No"
+
+msgid "Note that the old %s style still works if you prefer it."
+msgstr "Note that the old %s style still works if you prefer it."
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "OpenX Market Enabled"
+msgstr "OpenX Market Enabled"
+
+msgid "Optimization"
+msgstr "Optimization"
+
+msgid "Optimize ads on OpenX Market by default"
+msgstr "Optimize ads on OpenX Market by default"
+
+msgid "Other ad formats"
+msgstr "Other ad formats"
+
+msgid "Pages"
+msgstr "Pages"
+
+msgid "Partner ID:"
+msgstr "Partner ID:"
+
+msgid "Password:"
+msgstr "Password:"
+
+msgid "Paused"
+msgstr "Paused"
+
+msgid "Place an Advertising Manager ad"
+msgstr "Place an Advertising Manager ad"
+
+msgid ""
+"Place any HTML code you want to display before or after your tag in the "
+"appropriate section."
+msgstr ""
+"Place any HTML code you want to display before or after your tag in the "
+"appropriate section."
+
+msgid "Posts"
+msgstr "Posts"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Preview Ad"
+msgstr "Preview Ad"
+
+msgid "Preview this Ad"
+msgstr "Preview this Ad"
+
+msgid "Reset %s settings to defaults"
+msgstr "Reset %s settings to defaults"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Save &raquo;"
+msgstr "Save &raquo;"
+
+msgid "Save Changes"
+msgstr "Save Changes"
+
+msgid "Save Settings"
+msgstr "Save Settings"
+
+msgid "Scott Switzer, Martin Fitzpatrick"
+msgstr "Scott Switzer, Martin Fitzpatrick"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Select an ad to display:"
+msgstr "Select an ad to display:"
+
+msgid "Select one of the supported ad format sizes."
+msgstr "Select one of the supported ad format sizes."
+
+msgid "Settings saved."
+msgstr "Settings saved."
+
+msgid "Shortcuts"
+msgstr "Shortcuts"
+
+msgid "Simply <strong>paste your Ad Code below</strong> and Import!"
+msgstr "Simply <strong>paste your Ad Code below</strong> and Import!"
+
+msgid "Slot ID:"
+msgstr "Slot ID:"
+
+msgid "Square"
+msgstr "Square"
+
+msgid "Status Text:"
+msgstr "Status Text:"
+
+msgid ""
+"Status text will display in the status bar of some browsers (not all "
+"browsers support this)."
+msgstr ""
+"Status text will display in the status bar of some browsers (not all "
+"browsers support this)."
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "Step 1: Import Your Ad Code"
+msgstr "Step 1: Import Your Ad Code"
+
+msgid "Tahoma"
+msgstr "Tahoma"
+
+msgid "Text Font:"
+msgstr "Text Font:"
+
+msgid "Text Referral"
+msgstr "Text Referral"
+
+msgid "Text ads"
+msgstr "Text ads"
+
+msgid "Text and image ads"
+msgstr "Text and image ads"
+
+msgid "Text referrals"
+msgstr "Text referrals"
+
+msgid "Text:"
+msgstr "Text:"
+
+msgid ""
+"The Channel is the name for the specific inventory segment set up in your %s "
+"account."
+msgstr ""
+"The Channel is the name for the specific inventory segment set up in your %s "
+"account."
+
+msgid ""
+"The Partner ID is the ID for a partner revenue sharing account, usually your "
+"blog hosting provider.  Note that a Partner ID does not necessarily mean "
+"that your partner is sharing revenues.  %s will notify you if this is the "
+"case."
+msgstr ""
+"The Partner ID is the ID for a partner revenue sharing account, usually your "
+"blog hosting provider.  Note that a Partner ID does not necessarily mean "
+"that your partner is sharing revenues.  %s will notify you if this is the "
+"case."
+
+msgid "The last 30 days of revisions are stored for each ad."
+msgstr "The last 30 days of revisions are stored for each ad."
+
+msgid "Times"
+msgstr "Times"
+
+msgid "Title Font:"
+msgstr "Title Font:"
+
+msgid "Title:"
+msgstr "Title:"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Unknown"
+msgstr "Unknown"
+
+msgid "Updates"
+msgstr "Updates"
+
+msgid "Use Default"
+msgstr "Use Default"
+
+msgid "Username:"
+msgstr "Username:"
+
+msgid "Verdana"
+msgstr "Verdana"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "Video ads"
+msgstr "Video ads"
+
+msgid "View active ads only"
+msgstr "View active ads only"
+
+msgid "View all ad statuses"
+msgstr "View all ad statuses"
+
+msgid "View all ad types"
+msgstr "View all ad types"
+
+msgid "View only %s ads"
+msgstr "View only %s ads"
+
+msgid "View paused ads only"
+msgstr "View paused ads only"
+
+msgid "Website Display Options"
+msgstr "Website Display Options"
+
+msgid ""
+"Website display options determine where on your website your ads will appear."
+msgstr ""
+"Website display options determine where on your website your ads will appear."
+
+msgid ""
+"Weight determines how often this ad is displayed relative to the other ads "
+"with the same name.  A weight of '0' will stop this ad from displaying. "
+"OpenX Market optimised ads will display an alternative ad if it will make "
+"more money than this ad. Set the avarage amount you make from this network "
+"per 1000 ads (eCPM), and Advertising Manager will automatically optimise on "
+"the OpenX Market."
+msgstr ""
+"Weight determines how often this ad is displayed relative to the other ads "
+"with the same name.  A weight of '0' will stop this ad from displaying. "
+"OpenX Market optimised ads will display an alternative ad if it will make "
+"more money than this ad. Set the avarage amount you make from this network "
+"per 1000 ads (eCPM), and Advertising Manager will automatically optimise on "
+"the OpenX Market."
+
+msgid "Weight:"
+msgstr "Weight:"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "You are about to copy the %s ad:"
+msgstr "You are about to copy the %s ad:"
+
+msgid "You are about to permanently delete the %s ad:"
+msgstr "You are about to permanently delete the %s ad:"
+
+msgid ""
+"You can paste your existing ads or ad networks, or sign up to new ad "
+"networks to try them out!"
+msgstr ""
+"You can paste your existing ads or ad networks, or sign up to new ad "
+"networks to try them out!"
+
+msgid "[Default]"
+msgstr "[Default]"
+
+msgid "ago"
+msgstr "ago"
+
+msgid "by"
+msgstr "by"
+
+msgid "by Unknown"
+msgstr "by Unknown"
+
+msgid "http://code.openx.org/projects/show/advertising-manager"
+msgstr "http://code.openx.org/projects/show/advertising-manager"
+
+msgid "http://www.switzer.org"
+msgstr "http://www.switzer.org"
+
+msgid "www.advertiser-url.com"
+msgstr "www.advertiser-url.com"

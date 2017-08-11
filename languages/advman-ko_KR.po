@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/advertising-manager\n"
+"POT-Creation-Date: 2009-07-02 00:56+0000\n"
+"PO-Revision-Date: 2009-02-26 05:33+0000\n"
+"Last-Translator: Kyeho Song <bignunker@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0\n"
+
+msgid " ago"
+msgstr "전"
+
+msgid "120 x 600 Skyscraper"
+msgstr "120 x 600 스카이스크래퍼"
+
+msgid "160 x 600 Wide Skyscraper"
+msgstr "160 x 600 와이드 스카이스크래퍼"
+
+msgid "234 x 60 Half Banner"
+msgstr "234 x 60 하프 배너"
+
+msgid "300 x 250 Medium Rectangle"
+msgstr "300 x 250 중간 직사각형"
+
+msgid "468 x 60 Banner"
+msgstr "468 x 60 배너"
+
+msgid "728 x 90 Leaderboard"
+msgstr "728 x 90 리더보드"
+
+msgid "> 30 days"
+msgstr "> 30 일"
+
+msgid "Account Details"
+msgstr "계정 세부 정보"
+
+msgid "Account ID:"
+msgstr "Account ID:"
+
+msgid "Active"
+msgstr "활성"
+
+msgid "Ad Code"
+msgstr "광고 코드"
+
+msgid "Ad Format"
+msgstr "광고 형식"
+
+msgid "Ad Settings"
+msgstr "광고 설정"
+
+msgid "Ad Status"
+msgstr "광고 상태"
+
+msgid "Ad Type:"
+msgstr "광고 유형:"
+
+msgid "Ad Unit"
+msgstr "광고 유닛"
+
+msgid "Ads with the same name will rotate according to their relative weights."
+msgstr "이름이 같은 광고는 가중치에 따라 순환합니다."
+
+msgid "Advertising Manager"
+msgstr "광고 관리자"
+
+msgid "Advertising Manager supports most Ad networks."
+msgstr "'광고 관리자'는 대부분의 광고 네트워크를 지원합니다."
+
+msgid "Apply"
+msgstr "적용"
+
+msgid "Average eCPM:"
+msgstr "평균 eCPM:"
+
+msgid "Background:"
+msgstr "배경:"
+
+msgid "Border:"
+msgstr "테두리:"
+
+msgid "By Author:"
+msgstr "작성자에 따라:"
+
+msgid ""
+"By enabling the OpenX Market, an alternative ad may show if it will make you "
+"more money than the existing ad.  The floor price is the eCPM (revenue per "
+"1000 ads) that your ad network pays."
+msgstr ""
+"OpenX Market을 사용할 수 있도록 설정하면, 기존 광고 보다 이익을 더 많이 내는 "
+"대체 광고가 있는 경우 그 대체 광고가 표시됩니다. 최저 가격은 광고 네트워크가 "
+"지불하는 eCPM(1,000번 노출당 매출)을 의미합니다."
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Channel:"
+msgstr "채널:"
+
+msgid "Clear"
+msgstr "삭제"
+
+msgid "Code"
+msgstr "코드"
+
+msgid ""
+"Control and arrange your Advertising and Referral blocks on your Wordpress "
+"blog. With Widget and inline post support, integration with all major ad "
+"networks."
+msgstr ""
+"위젯 및 인라인 포스트 지원, 모든 광고 네트워크와의 통합은 물론이고 Wordpress "
+"블로그의 Adversiting 및 Referral 블록을 통제하고 조정합니다. "
+
+msgid "Copy this ad"
+msgstr "광고 복사"
+
+msgid "Create New Ad"
+msgstr "새 광고 만들기"
+
+msgid "Custom"
+msgstr "사용자 지정"
+
+msgid "Custom height for this unit."
+msgstr "이 유닛의 높이를 사용자 지정합니다."
+
+msgid "Custom width for this unit."
+msgstr "이 유닛의 넓이를 사용자 지정합니다."
+
+msgid "Default"
+msgstr "기본값"
+
+msgid "Default floor price:"
+msgstr "기본 최저 가격"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Delete this ad"
+msgstr "광고 삭제"
+
+msgid "Dimensions:"
+msgstr "크기"
+
+msgid "Display any notes about this ad here:"
+msgstr "여기에 이 광고에 대한 참고사항을 표시합니다:"
+
+msgid "Format"
+msgstr "형식"
+
+msgid "Format:"
+msgstr "형식"
+
+msgid "HTML Code After"
+msgstr "HTML 코드 뒤"
+
+msgid "HTML Code Before"
+msgstr "HTML 코드 앞"
+
+msgid "History"
+msgstr "사용 기록"
+
+msgid "Identifier:"
+msgstr "식별자"
+
+msgid "Image Referral"
+msgstr "이미지 조회"
+
+msgid "Import"
+msgstr "가져오기"
+
+msgid "Import to New Ad Unit&raquo;"
+msgstr "새 광고 유닛 가져오기&raquo;"
+
+msgid "Last Edit"
+msgstr "최종 편집"
+
+msgid "Last edited"
+msgstr "최종 편집됨"
+
+msgid "Link Unit"
+msgstr "링크 유닛"
+
+msgid "Link:"
+msgstr "링크:"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "No"
+msgstr "아니오"
+
+msgid "Notes"
+msgstr "참고"
+
+msgid "Optimization"
+msgstr "최적화"
+
+msgid "Optimize ads on OpenX Market by default"
+msgstr "OpenX Market을 기본으로 광고를 최적화하기"
+
+msgid "Partner ID:"
+msgstr "Partner ID:"
+
+msgid "Paused"
+msgstr "일시 중지"
+
+msgid "Preview"
+msgstr "미리 보기"
+
+msgid "Preview Ad"
+msgstr "광고 미리보기"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Save Changes"
+msgstr "변경사항 저장"
+
+msgid "Save Settings"
+msgstr "설정 저장하기"
+
+msgid "Scott Switzer, Martin Fitzpatrick"
+msgstr "Scott Switzer, Martin Fitzpatrick"
+
+msgid "Select one of the supported ad format sizes."
+msgstr "광고 유형 크기 선택하기"
+
+msgid "Settings saved."
+msgstr "설정이 저장되었습니다."
+
+msgid "Shortcuts"
+msgstr "바로 가기"
+
+msgid "Simply <strong>paste your Ad Code below</strong> and Import!"
+msgstr "<strong>아래의 광고 코드를 붙여넣기</strong>하여 코드를 가져오십시오!"
+
+msgid "Slot ID:"
+msgstr "Slot ID:"
+
+msgid "Status Text:"
+msgstr "상태 텍스트"
+
+msgid "Status:"
+msgstr "상태"
+
+msgid "Step 1: Import Your Ad Code"
+msgstr "1단계: 광고 코드 가져오기"
+
+msgid "Text Referral"
+msgstr "텍스트 조회 "
+
+msgid "Text:"
+msgstr "텍스트:"
+
+msgid "The last 30 days of revisions are stored for each ad."
+msgstr "지난 30일 동안의 광고 수정 내용이 저장되었습니다."
+
+msgid "Title:"
+msgstr "제목:"
+
+msgid "Type"
+msgstr "유형"
+
+msgid "Use Default"
+msgstr "기본값 사용"
+
+msgid ""
+"Weight determines how often this ad is displayed relative to the other ads "
+"with the same name.  A weight of '0' will stop this ad from displaying. "
+"OpenX Market optimised ads will display an alternative ad if it will make "
+"more money than this ad. Set the avarage amount you make from this network "
+"per 1000 ads (eCPM), and Advertising Manager will automatically optimise on "
+"the OpenX Market."
+msgstr ""
+"이름이 같은 광고간의 상대적인 노출 빈도는 가중치에 따라 결정됩니다. 가중치가 "
+"'0'인 경우, 광고는 노출되지 않습니다. OpenX Market은  광고에 최적화되어 있어"
+"서 해당 광고 보다 이익을 더 많이 내는 다른 광고가 있는 경우에는 해당 광고를 "
+"표시합니다. "
+
+msgid "Weight:"
+msgstr "가중치:"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "[Default]"
+msgstr "[기본값]"
+
+msgid "http://code.openx.org/projects/show/advertising-manager"
+msgstr "http://code.openx.org/projects/show/advertising-manager"

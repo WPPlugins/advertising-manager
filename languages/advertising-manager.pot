@@ -1,0 +1,1228 @@
+# Copyright (C) 2014 Advertising Manager
+# This file is distributed under the same license as the Advertising Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advertising Manager 3.4.27\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/advertising-"
+"manager\n"
+"POT-Creation-Date: 2014-08-08 10:37:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: lib/Advman/AdList.php:35 lib/Advman/AdSlot.php:35
+msgid "Ads copied"
+msgstr ""
+
+#: lib/Advman/AdList.php:44 lib/Advman/AdSlot.php:44
+msgid "Ads deleted"
+msgstr ""
+
+#: lib/Advman/AdList.php:79 lib/Advman/AdSlot.php:79 lib/Advman/Admin.php:14
+#: lib/Advman/Admin.php:19
+msgid "Ads"
+msgstr ""
+
+#: lib/Advman/AdList.php:81 lib/Advman/AdSlot.php:81
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: lib/Advman/AdList.php:123 lib/Advman/AdSlot.php:123
+msgid "Overview"
+msgstr ""
+
+#: lib/Advman/AdList.php:125 lib/Advman/AdSlot.php:125
+msgid ""
+"This screen provides access to all of your ads. Each ad is listed in the "
+"table below.  You can customize the display of this screen to suit your "
+"workflow."
+msgstr ""
+
+#: lib/Advman/AdList.php:129 lib/Advman/AdSlot.php:129
+msgid "Screen Content"
+msgstr ""
+
+#: lib/Advman/AdList.php:131 lib/Advman/AdSlot.php:131
+msgid ""
+"You can customize the display of this screen&#8217;s contents in a number of "
+"ways:"
+msgstr ""
+
+#: lib/Advman/AdList.php:133 lib/Advman/AdSlot.php:133
+msgid ""
+"You can hide/display columns based on your needs and decide how many ads to "
+"list per screen using the Screen Options tab."
+msgstr ""
+
+#: lib/Advman/AdList.php:134 lib/Advman/AdSlot.php:134
+msgid ""
+"You can sort the list to order by name, type, format, etc.  Click the title "
+"of the column to sort ascending.  Click the title again to sort decending."
+msgstr ""
+
+#: lib/Advman/AdList.php:135 lib/Advman/AdSlot.php:135
+msgid ""
+"You can filter the list of ads by ad status using the text links in the "
+"upper left to show All, Active, or Inactive ads. The default view is to show "
+"all ads."
+msgstr ""
+
+#: lib/Advman/AdList.php:136 lib/Advman/AdSlot.php:136
+msgid ""
+"You can refine the list to show only ads of a specific type. Click the "
+"Filter button after making your selection."
+msgstr ""
+
+#: lib/Advman/AdList.php:141 lib/Advman/AdSlot.php:141
+msgid "Available Actions"
+msgstr ""
+
+#: lib/Advman/AdList.php:143 lib/Advman/AdSlot.php:143
+msgid ""
+"Hovering over a row in the posts list will display action links that allow "
+"you to manage your post. You can perform the following actions:"
+msgstr ""
+
+#: lib/Advman/AdList.php:145 lib/Advman/AdSlot.php:145
+msgid ""
+"<strong>Edit</strong> takes you to the editing screen for that ad. You can "
+"also reach that screen by clicking on the ad name."
+msgstr ""
+
+#: lib/Advman/AdList.php:146 lib/Advman/AdSlot.php:146
+msgid ""
+"<strong>Delete</strong> removes your ad from this list and permanently "
+"deletes it."
+msgstr ""
+
+#: lib/Advman/AdList.php:147 lib/Advman/AdSlot.php:147
+msgid ""
+"<strong>Preview</strong> will show you what your rendered ad will look like "
+"if you display it on your site."
+msgstr ""
+
+#: lib/Advman/AdList.php:152 lib/Advman/AdSlot.php:152
+#: lib/Advman/Template/Ad/List.php:61 lib/Advman/Template/Ad/List.php:149
+#: lib/Advman/Template/Slot/List.php:61 lib/Advman/Template/Slot/List.php:149
+msgid "Bulk Actions"
+msgstr ""
+
+#: lib/Advman/AdList.php:154 lib/Advman/AdSlot.php:154
+msgid ""
+"You can also perform actions on multiple ads at once. Select the ads you "
+"want to act on using the checkboxes, then select the action you want to take "
+"from the Bulk Actions menu and click Apply.  Use the checkbox in the header "
+"to select or deselect all items."
+msgstr ""
+
+#: lib/Advman/AdList.php:156 lib/Advman/AdSlot.php:156
+msgid ""
+"<strong>Copy</strong> makes a copy of the selected ads and adds them to the "
+"list"
+msgstr ""
+
+#: lib/Advman/AdList.php:157 lib/Advman/AdSlot.php:157
+msgid ""
+"<strong>Delete</strong> removes the selected ads from this list and "
+"permanently deletes them."
+msgstr ""
+
+#: lib/Advman/AdList.php:162 lib/Advman/AdSlot.php:162
+msgid "For more information:"
+msgstr ""
+
+#: lib/Advman/AdList.php:163 lib/Advman/AdSlot.php:163
+msgid ""
+"<a href=\"http://wordpress.org/plugins/advertising-manager/\" target=\"_blank"
+"\">Plugin Page</a>"
+msgstr ""
+
+#: lib/Advman/AdList.php:164 lib/Advman/AdSlot.php:164
+msgid ""
+"<a href=\"http://wordpress.org/support/plugin/advertising-manager\" target="
+"\"_blank\">Support Forums</a>"
+msgstr ""
+
+#: lib/Advman/Admin.php:15
+msgid "All Ads"
+msgstr ""
+
+#: lib/Advman/Admin.php:16
+msgid "Create New Ad"
+msgstr ""
+
+#: lib/Advman/Admin.php:16
+msgid "Create New"
+msgstr ""
+
+#: lib/Advman/Admin.php:17
+msgid "Edit Ad"
+msgstr ""
+
+#: lib/Advman/Admin.php:17 lib/Advman/Admin.php:18
+#: lib/Advman/Template/Ad/List.php:126 lib/Advman/Template/Ad/Table.php:119
+#: lib/Advman/Template/Slot/List.php:126
+#: lib/Advman/Template/Slot/Table.php:119
+msgid "Edit"
+msgstr ""
+
+#: lib/Advman/Admin.php:18
+msgid "Edit Network"
+msgstr ""
+
+#: lib/Advman/Admin.php:85 lib/Advman/Admin.php:102
+msgid "Network updated"
+msgstr ""
+
+#: lib/Advman/Admin.php:96
+msgid "Network settings reset to defaults"
+msgstr ""
+
+#: lib/Advman/Admin.php:140
+msgid "Ad updated"
+msgstr ""
+
+#: lib/Advman/Admin.php:148
+msgid "Ad activated"
+msgstr ""
+
+#: lib/Advman/Admin.php:166
+msgid "Ad deactivated"
+msgstr ""
+
+#: lib/Advman/Admin.php:173
+msgid "Ad is now default"
+msgstr ""
+
+#: lib/Advman/Admin.php:173
+msgid "Ad is no longer default"
+msgstr ""
+
+#: lib/Advman/Admin.php:179
+msgid "Ad deleted"
+msgstr ""
+
+#: lib/Advman/Admin.php:568
+msgid ""
+"Ads by <a href='http://wordpress.org/plugins/advertising-"
+"manager/'>Advertising Manager</a>"
+msgstr ""
+
+#: lib/Advman/Admin.php:575
+msgid "Settings"
+msgstr ""
+
+#: lib/Advman/Admin.php:582
+msgid ""
+"Would you like to enable experimental ad quality controls in "
+"<strong>Advertising Manager</strong>?"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Create.php:8
+msgid "Create Ad"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Create.php:19
+msgid "Step 1: Import Your Ad Code"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Create.php:20
+msgid "Simply <strong>paste your Ad Code below</strong> and Import!"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Create.php:22 lib/Advman/Template/Ad/Edit.php:42
+#: lib/Advman/Template/Slot/Edit.php:42
+msgid "Code"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Create.php:24
+msgid "Advertising Manager will automatically detect many ad network tags."
+msgstr ""
+
+#: lib/Advman/Template/Ad/Create.php:24
+msgid ""
+"You can paste your existing ads or ad networks, or sign up to new ad "
+"networks to try them out!"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Create.php:26 lib/Advman/Template/Metabox.php:533
+msgid "Cancel"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Create.php:27
+msgid "Import"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Edit.php:16 lib/Advman/Template/Network/Edit.php:16
+#: lib/Advman/Template/Slot/Edit.php:16
+msgid "Account Details"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Edit.php:25 lib/Advman/Template/Network/Edit.php:25
+#: lib/Advman/Template/Slot/Edit.php:25
+msgid "Ad Format"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Edit.php:34 lib/Advman/Template/Network/Edit.php:34
+#: lib/Advman/Template/Slot/Edit.php:34
+msgid "Ad Appearance"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Edit.php:39 lib/Advman/Template/Slot/Edit.php:39
+msgid "Website Display Options"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Edit.php:41 lib/Advman/Template/Slot/Edit.php:41
+msgid "Optimization"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Edit.php:44 lib/Advman/Template/Network/Edit.php:44
+#: lib/Advman/Template/Slot/Edit.php:44
+msgid "History"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Edit.php:46 lib/Advman/Template/Network/Edit.php:46
+#: lib/Advman/Template/Slot/Edit.php:46
+msgid "Save Settings"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Edit.php:47 lib/Advman/Template/Metabox.php:455
+#: lib/Advman/Template/Metabox.php:464 lib/Advman/Template/Network/Edit.php:47
+#: lib/Advman/Template/Slot/Edit.php:47
+msgid "Shortcuts"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Edit.php:48 lib/Advman/Template/Ad/List.php:100
+#: lib/Advman/Template/Ad/List.php:113 lib/Advman/Template/Network/Edit.php:48
+#: lib/Advman/Template/Slot/Edit.php:48 lib/Advman/Template/Slot/List.php:100
+#: lib/Advman/Template/Slot/List.php:113
+msgid "Notes"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:30 lib/Advman/Template/Slot/List.php:30
+msgid "Manage Your Advertising"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:62 lib/Advman/Template/Ad/List.php:127
+#: lib/Advman/Template/Ad/List.php:150 lib/Advman/Template/Ad/Table.php:120
+#: lib/Advman/Template/Ad/Table.php:219 lib/Advman/Template/Slot/List.php:62
+#: lib/Advman/Template/Slot/List.php:127 lib/Advman/Template/Slot/List.php:150
+#: lib/Advman/Template/Slot/Table.php:120
+#: lib/Advman/Template/Slot/Table.php:219
+msgid "Copy"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:63 lib/Advman/Template/Ad/List.php:128
+#: lib/Advman/Template/Ad/List.php:151 lib/Advman/Template/Ad/Table.php:121
+#: lib/Advman/Template/Ad/Table.php:220 lib/Advman/Template/Slot/List.php:63
+#: lib/Advman/Template/Slot/List.php:128 lib/Advman/Template/Slot/List.php:151
+#: lib/Advman/Template/Slot/Table.php:121
+#: lib/Advman/Template/Slot/Table.php:220
+msgid "Delete"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:65 lib/Advman/Template/Ad/List.php:153
+#: lib/Advman/Template/Metabox.php:508 lib/Advman/Template/Slot/List.php:65
+#: lib/Advman/Template/Slot/List.php:153
+msgid "Apply"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:68 lib/Advman/Template/Slot/List.php:68
+msgid "View all ad types"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:70 lib/Advman/Template/Slot/List.php:70
+msgid "View only %s ads"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:74 lib/Advman/Template/Slot/List.php:74
+msgid "View all ad statuses"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:75 lib/Advman/Template/Slot/List.php:75
+msgid "View active ads only"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:76 lib/Advman/Template/Slot/List.php:76
+msgid "View paused ads only"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:78 lib/Advman/Template/Slot/List.php:78
+msgid "Filter"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:80 lib/Advman/Template/Slot/List.php:80
+msgid "Clear"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:94 lib/Advman/Template/Ad/List.php:107
+#: lib/Advman/Template/Ad/Table.php:169 lib/Advman/Template/Slot/List.php:94
+#: lib/Advman/Template/Slot/List.php:107
+#: lib/Advman/Template/Slot/Table.php:169
+msgid "Name"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:95 lib/Advman/Template/Ad/List.php:108
+#: lib/Advman/Template/Ad/Table.php:170 lib/Advman/Template/Slot/List.php:95
+#: lib/Advman/Template/Slot/List.php:108
+#: lib/Advman/Template/Slot/Table.php:170
+msgid "Type"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:96 lib/Advman/Template/Ad/List.php:109
+#: lib/Advman/Template/Ad/Table.php:171 lib/Advman/Template/Slot/List.php:96
+#: lib/Advman/Template/Slot/List.php:109
+#: lib/Advman/Template/Slot/Table.php:171
+msgid "Format"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:97 lib/Advman/Template/Ad/List.php:110
+#: lib/Advman/Template/Ad/Table.php:52 lib/Advman/Template/Ad/Table.php:172
+#: lib/Advman/Template/Metabox.php:522 lib/Advman/Template/Slot/List.php:97
+#: lib/Advman/Template/Slot/List.php:110 lib/Advman/Template/Slot/Table.php:52
+#: lib/Advman/Template/Slot/Table.php:172
+msgid "Active"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:98 lib/Advman/Template/Ad/List.php:111
+#: lib/Advman/Template/Ad/Table.php:173 lib/Advman/Template/Metabox.php:57
+#: lib/Advman/Template/Slot/List.php:98 lib/Advman/Template/Slot/List.php:111
+#: lib/Advman/Template/Slot/Table.php:173
+msgid "Default"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:99 lib/Advman/Template/Ad/List.php:112
+#: lib/Advman/Template/Ad/Table.php:174 lib/Advman/Template/Slot/List.php:99
+#: lib/Advman/Template/Slot/List.php:112
+#: lib/Advman/Template/Slot/Table.php:174
+msgid "Last Edit"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:124 lib/Advman/Template/Ad/List.php:126
+#: lib/Advman/Template/Slot/List.php:124 lib/Advman/Template/Slot/List.php:126
+msgid "Edit the ad &quot;%s&quot;"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:127 lib/Advman/Template/Metabox.php:456
+#: lib/Advman/Template/Slot/List.php:127
+msgid "Copy this ad"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:128 lib/Advman/Template/Metabox.php:457
+#: lib/Advman/Template/Slot/List.php:128
+msgid "Delete this ad"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:129 lib/Advman/Template/Slot/List.php:129
+msgid "Preview"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:132 lib/Advman/Template/Slot/List.php:132
+msgid "Edit the ad network &quot;%s&quot;"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:134 lib/Advman/Template/Ad/List.php:135
+#: lib/Advman/Template/Ad/Table.php:136 lib/Advman/Template/Ad/Table.php:141
+#: lib/Advman/Template/Notice.php:16 lib/Advman/Template/Slot/List.php:134
+#: lib/Advman/Template/Slot/List.php:135
+#: lib/Advman/Template/Slot/Table.php:136
+#: lib/Advman/Template/Slot/Table.php:141
+msgid "Yes"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:134 lib/Advman/Template/Ad/List.php:135
+#: lib/Advman/Template/Ad/Table.php:136 lib/Advman/Template/Ad/Table.php:141
+#: lib/Advman/Template/Notice.php:17 lib/Advman/Template/Slot/List.php:134
+#: lib/Advman/Template/Slot/List.php:135
+#: lib/Advman/Template/Slot/Table.php:136
+#: lib/Advman/Template/Slot/Table.php:141
+msgid "No"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:138 lib/Advman/Template/Metabox.php:526
+#: lib/Advman/Template/Slot/List.php:138
+msgid " ago"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:138 lib/Advman/Template/Metabox.php:526
+#: lib/Advman/Template/Slot/List.php:138
+msgid "by"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:180 lib/Advman/Template/Ad/List.php:187
+#: lib/Advman/Template/Ad/Table.php:272 lib/Advman/Template/Ad/Table.php:279
+#: lib/Advman/Template/Slot/List.php:180 lib/Advman/Template/Slot/List.php:187
+#: lib/Advman/Template/Slot/Table.php:272
+#: lib/Advman/Template/Slot/Table.php:279 lib/OX/Tools.php:97
+msgid "Custom"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:201 lib/Advman/Template/Ad/Table.php:293
+#: lib/Advman/Template/Slot/List.php:201
+#: lib/Advman/Template/Slot/Table.php:293
+msgid "Ad Unit"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:202 lib/Advman/Template/Ad/Table.php:294
+#: lib/Advman/Template/Slot/List.php:202
+#: lib/Advman/Template/Slot/Table.php:294
+msgid "Link Unit"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:203 lib/Advman/Template/Ad/Table.php:295
+#: lib/Advman/Template/Slot/List.php:203
+#: lib/Advman/Template/Slot/Table.php:295
+msgid "Text Referral"
+msgstr ""
+
+#: lib/Advman/Template/Ad/List.php:204 lib/Advman/Template/Ad/Table.php:296
+#: lib/Advman/Template/Slot/List.php:204
+#: lib/Advman/Template/Slot/Table.php:296
+msgid "Image Referral"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Table.php:18 lib/Advman/Template/Slot/Table.php:18
+msgid "ad"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Table.php:19 lib/Advman/Template/Slot/Table.php:19
+msgid "ads"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Table.php:46 lib/Advman/Template/Slot/Table.php:46
+msgid "All"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Table.php:59 lib/Advman/Template/Slot/Table.php:59
+msgid "Inactive"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Table.php:101 lib/Advman/Template/Slot/Table.php:101
+msgid ""
+"There are currently no ads.  Try to <a href=\"admin.php?page=advman-ad-new"
+"\">create</a> one to get started"
+msgstr ""
+
+#: lib/Advman/Template/Ad/Table.php:147 lib/Advman/Template/Slot/Table.php:147
+msgid " ago by "
+msgstr ""
+
+#: lib/Advman/Template/Edit.php:11
+msgid "Edit %s Network Settings"
+msgstr ""
+
+#: lib/Advman/Template/Edit.php:13
+msgid "Edit Settings for %s Ad:"
+msgstr ""
+
+#: lib/Advman/Template/Edit.php:56
+msgid "Enter the name for this ad."
+msgstr ""
+
+#: lib/Advman/Template/Edit.php:56
+msgid "Ads with the same name will rotate according to their relative weights."
+msgstr ""
+
+#: lib/Advman/Template/Edit.php:64
+msgid "Advanced Options"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:38
+msgid "Ad Type:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:41 lib/Advman/Template/Metabox.php:58
+msgid "Use Default"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:46 lib/Advman/Template/Metabox.php:70
+#: lib/Advman/Template/Metabox.php:188 lib/Advman/Template/Metabox.php:219
+#: lib/Advman/Template/Metabox.php:236 lib/Advman/Template/Metabox.php:290
+#: lib/Advman/Template/Metabox.php:357
+msgid "[Default]"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:53
+msgid "Format:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:76
+msgid "Dimensions:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:78
+msgid "Custom width for this unit."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:79
+msgid "Custom height for this unit."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:85
+msgid "Select one of the supported ad format sizes."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:85
+msgid ""
+"If your ad size is not one of the standard sizes, select Custom and fill in "
+"your size."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:107
+msgid "Homepage"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:108
+msgid "Posts"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:109
+msgid "Pages"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:110
+msgid "Archives"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:111
+msgid "Search"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:122
+msgid "By Page Type:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:133
+msgid "By Author:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:144
+msgid "By Category:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:155
+msgid "By Tag:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:167
+msgid ""
+"Website display options determine where on your website your ads will appear."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:185
+msgid "Weight:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:194
+msgid ""
+"Weight determines how often this ad is displayed relative to the other ads "
+"with the same name.  A weight of '0' will stop this ad from displaying."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:216
+msgid "HTML Code Before"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:226
+msgid "Ad Code"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:233
+msgid "HTML Code After"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:243
+msgid ""
+"Place any HTML code you want to display before or after your tag in the "
+"appropriate section."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:243
+msgid ""
+"If you want to change your ad network tag, you need to import the new tag "
+"again."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:259
+msgid "Account ID:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:260
+msgid "Username:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:261
+msgid "Password:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:262
+msgid "Partner ID:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:263
+msgid "Slot ID:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:264
+msgid "Max Ads Per Page:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:265
+msgid "Channel:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:266
+msgid "Campaign:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:267
+msgid "Alternate URL:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:268
+msgid "Identifier:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:270
+msgid "Enter the information specific to the %s ad type."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:272
+msgid ""
+"The Partner ID is the ID for a partner revenue sharing account, usually your "
+"blog hosting provider.  Note that a Partner ID does not necessarily mean "
+"that your partner is sharing revenues.  %s will notify you if this is the "
+"case."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:275
+msgid ""
+"The Channel is the name for the specific inventory segment set up in your %s "
+"account."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:278
+msgid ""
+"Leave the Max Ads Per Page field blank if you do not want to restrict the "
+"number of ads per page."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:317
+msgid "More than %d days ago"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:317
+msgid "by Unknown"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:331
+msgid "The last 30 days of revisions are stored for each ad."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:370
+msgid "Arial"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:371
+msgid "Comic Sans MS"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:372
+msgid "Courier"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:373
+msgid "Georgia"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:374
+msgid "Tahoma"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:375
+msgid "Times"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:376
+msgid "Verdana"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:384
+msgid "Alternate Text:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:385
+msgid "Status Text:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:414
+msgid "Linked Title"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:421
+msgid "Advertiser's ad text here"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:428
+msgid "www.advertiser-url.com"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:431
+msgid "Ads by %s"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:438
+msgid "Choose how you want your ad to appear."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:440
+msgid ""
+"Enter the RGB value of the color, or selet the font in the appropriate box.  "
+"The sample ad to the right will show you what your selections look like."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:443
+msgid "Alternate text will display as an image tooltip."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:446
+msgid ""
+"Status text will display in the status bar of some browsers (not all "
+"browsers support this)."
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:456
+msgid "You are about to copy the %s ad:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:456 lib/Advman/Template/Metabox.php:457
+msgid "Are you sure?"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:456
+msgid "(Press Cancel to do nothing, OK to copy)"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:457
+msgid "You are about to permanently delete the %s ad:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:457
+msgid "(Press Cancel to keep, OK to delete)"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:458
+msgid "Edit %s Defaults"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:466
+msgid "%s home page"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:468
+msgid "Reset %s settings to defaults"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:486
+msgid "Display any notes about this ad here:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:505 lib/Advman/Template/Metabox.php:536
+msgid "Save"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:512
+msgid "Preview Ad"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:521
+msgid "Status:"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:522
+msgid "Paused"
+msgstr ""
+
+#: lib/Advman/Template/Metabox.php:526
+msgid "Last edited"
+msgstr ""
+
+#: lib/Advman/Template/Network/Edit.php:41
+msgid "Default Optimization Settings"
+msgstr ""
+
+#: lib/Advman/Template/Network/Edit.php:42
+msgid "Default Code Settings"
+msgstr ""
+
+#: lib/Advman/Template/Notice.php:20
+msgid "OK"
+msgstr ""
+
+#: lib/Advman/Template/Notice.php:26
+msgid "Learn More"
+msgstr ""
+
+#: lib/Advman/Template/Notice.php:27
+msgid "No Thanks"
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:30
+msgid "Ad Settings"
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:33
+msgid "Settings saved."
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:42 lib/Advman/Template/Settings.php:46
+msgid "Ad Quality"
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:44
+msgid ""
+"Ad quality tools help small and medium sized publishers (like many Wordpress "
+"bloggers) get access to larger advertisers with bigger budgets.  These tools "
+"can be installed automatically."
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:47
+msgid "Allow URL Authentication (Experimental)"
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:49
+msgid ""
+"By turning on Url Authentication, your blog which will use javascript from "
+"Ad.js to verify the URL of your blog in the user's web browser.  "
+"Installation is automatic.  An email will be sent to the admin from time to "
+"time with an ad quality report.<br><br><strong>Please Note:  Your blog "
+"domain and admin email address will be sent to Ad.js to obtain a client ID.</"
+"strong>"
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:54 lib/Advman/Template/Settings.php:58
+msgid "Statistics"
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:59
+msgid "Collect statistics about the number of ads served"
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:61
+msgid "Purge after:"
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:61
+msgid "days"
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:62
+msgid ""
+"Collecting statistics about your ad serving will give you insight on how "
+"many ads have been viewed by your users.  It is a good idea to purge these "
+"stats after 30 days so that your database does not get too full."
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:66 lib/Advman/Template/Settings.php:69
+msgid "Other Settings"
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:70
+msgid "Allow PHP Code in Ads"
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:72
+msgid ""
+"Allowing PHP code in ads will execute any PHP code when delivering an ad.  "
+"Be careful - only enable if you know what you are doing."
+msgstr ""
+
+#: lib/Advman/Template/Settings.php:80
+msgid "Save Changes"
+msgstr ""
+
+#: lib/Advman/Tools.php:68
+msgid "Unknown"
+msgstr ""
+
+#: lib/Advman/Tools.php:83
+msgid "> 30 days"
+msgstr ""
+
+#: lib/Advman/Tools.php:118 lib/OX/Tools.php:58
+msgid "Border:"
+msgstr ""
+
+#: lib/Advman/Tools.php:119 lib/OX/Tools.php:59
+msgid "Background:"
+msgstr ""
+
+#: lib/Advman/Tools.php:120 lib/Advman/Widget.php:54 lib/OX/Tools.php:60
+msgid "Title:"
+msgstr ""
+
+#: lib/Advman/Tools.php:121 lib/OX/Tools.php:61
+msgid "Text:"
+msgstr ""
+
+#: lib/Advman/Tools.php:122
+msgid "Link:"
+msgstr ""
+
+#: lib/Advman/Tools.php:123
+msgid "Title Font:"
+msgstr ""
+
+#: lib/Advman/Tools.php:124
+msgid "Text Font:"
+msgstr ""
+
+#: lib/Advman/Tools.php:143
+msgid "Text ads"
+msgstr ""
+
+#: lib/Advman/Tools.php:144
+msgid "Image ads"
+msgstr ""
+
+#: lib/Advman/Tools.php:145
+msgid "Text referrals"
+msgstr ""
+
+#: lib/Advman/Tools.php:146
+msgid "Image referrals"
+msgstr ""
+
+#: lib/Advman/Tools.php:147
+msgid "Text and image ads"
+msgstr ""
+
+#: lib/Advman/Tools.php:148
+msgid "Ad links"
+msgstr ""
+
+#: lib/Advman/Tools.php:149
+msgid "Video ads"
+msgstr ""
+
+#: lib/Advman/Tools.php:150
+msgid "All ad types"
+msgstr ""
+
+#: lib/Advman/Tools.php:154 lib/OX/Tools.php:94
+msgid "Horizontal"
+msgstr ""
+
+#: lib/Advman/Tools.php:155 lib/OX/Tools.php:95
+msgid "Vertical"
+msgstr ""
+
+#: lib/Advman/Tools.php:156 lib/OX/Tools.php:96
+msgid "Square"
+msgstr ""
+
+#: lib/Advman/Tools.php:157
+msgid "Other ad formats"
+msgstr ""
+
+#: lib/Advman/Tools.php:158 lib/Advman/Tools.php:244 lib/OX/Tools.php:81
+msgid "Custom width and height"
+msgstr ""
+
+#: lib/Advman/Tools.php:162
+msgid "%1$s x %2$s Large Leaderboard"
+msgstr ""
+
+#: lib/Advman/Tools.php:163
+msgid "%1$s x %2$s Leaderboard"
+msgstr ""
+
+#: lib/Advman/Tools.php:164 lib/Advman/Tools.php:166 lib/Advman/Tools.php:167
+msgid "%1$s x %2$s Small Leaderboard"
+msgstr ""
+
+#: lib/Advman/Tools.php:165
+msgid "%1$s x %2$s Mega Unit"
+msgstr ""
+
+#: lib/Advman/Tools.php:168 lib/Advman/Tools.php:169 lib/Advman/Tools.php:170
+#: lib/Advman/Tools.php:172 lib/Advman/Tools.php:173 lib/Advman/Tools.php:174
+msgid "%1$s x %2$s Tall Banner"
+msgstr ""
+
+#: lib/Advman/Tools.php:171 lib/Advman/Tools.php:247
+msgid "%1$s x %2$s Banner"
+msgstr ""
+
+#: lib/Advman/Tools.php:175 lib/Advman/Tools.php:177
+msgid "%1$s x %2$s Half Banner"
+msgstr ""
+
+#: lib/Advman/Tools.php:176
+msgid "%1$s x %2$s Tall Half Banner"
+msgstr ""
+
+#: lib/Advman/Tools.php:178 lib/Advman/Tools.php:179 lib/Advman/Tools.php:210
+msgid "%1$s x %2$s Button"
+msgstr ""
+
+#: lib/Advman/Tools.php:180
+msgid "%1$s x %2$s Micro Bar"
+msgstr ""
+
+#: lib/Advman/Tools.php:181 lib/Advman/Tools.php:182 lib/Advman/Tools.php:183
+#: lib/Advman/Tools.php:184
+msgid "%1$s x %2$s Thin Banner, %3$s Links"
+msgstr ""
+
+#: lib/Advman/Tools.php:188
+msgid "%1$s x %2$s Wide Skyscraper"
+msgstr ""
+
+#: lib/Advman/Tools.php:189
+msgid "%1$s x %2$s Skyscraper"
+msgstr ""
+
+#: lib/Advman/Tools.php:190
+msgid "%1$s x %2$s Wide Half Banner"
+msgstr ""
+
+#: lib/Advman/Tools.php:191
+msgid "%1$s x %2$s Vertical Rectangle"
+msgstr ""
+
+#: lib/Advman/Tools.php:192 lib/Advman/Tools.php:193
+msgid "%1$s x %2$s Tall Rectangle"
+msgstr ""
+
+#: lib/Advman/Tools.php:194
+msgid "%1$s x %2$s Vertical Banner"
+msgstr ""
+
+#: lib/Advman/Tools.php:198
+msgid "%1$s x %2$s Large Rectangle"
+msgstr ""
+
+#: lib/Advman/Tools.php:199 lib/Advman/Tools.php:200
+msgid "%1$s x %2$s Wide Rectangle"
+msgstr ""
+
+#: lib/Advman/Tools.php:201
+msgid "%1$s x %2$s Medium Rectangle"
+msgstr ""
+
+#: lib/Advman/Tools.php:202 lib/Advman/Tools.php:203
+msgid "%1$s x %2$s Small Wide Rectangle"
+msgstr ""
+
+#: lib/Advman/Tools.php:204
+msgid "%1$s x %2$s Mini Wide Rectangle"
+msgstr ""
+
+#: lib/Advman/Tools.php:205
+msgid "%1$s x %2$s Square"
+msgstr ""
+
+#: lib/Advman/Tools.php:206 lib/Advman/Tools.php:209
+msgid "%1$s x %2$s Small Square"
+msgstr ""
+
+#: lib/Advman/Tools.php:207 lib/Advman/Tools.php:208
+msgid "%1$s x %2$s Small Rectangle"
+msgstr ""
+
+#: lib/Advman/Tools.php:211 lib/Advman/Tools.php:212
+msgid "%1$s x %2$s Tall Half Banner, %3$s Links"
+msgstr ""
+
+#: lib/Advman/Tools.php:213 lib/Advman/Tools.php:214
+msgid "%1$s x %2$s Half Banner, %3$s Links"
+msgstr ""
+
+#: lib/Advman/Tools.php:215 lib/Advman/Tools.php:216
+msgid "%1$s x %2$s Tall Button, %3$s Links"
+msgstr ""
+
+#: lib/Advman/Tools.php:217 lib/Advman/Tools.php:218
+msgid "%1$s x %2$s Button, %3$s Links"
+msgstr ""
+
+#: lib/Advman/Tools.php:247
+msgid "%1$s x %2$s Banner, %3$s Links"
+msgstr ""
+
+#: lib/Advman/Upgrade.php:226
+msgid ""
+"<strong>Advertising Manager</strong> has been upgraded from your "
+"<strong>Adsense Manager</strong> settings."
+msgstr ""
+
+#: lib/Advman/Widget.php:6
+msgid "Place an Advertising Manager ad"
+msgstr ""
+
+#: lib/Advman/Widget.php:7
+msgid "Advertisement"
+msgstr ""
+
+#: lib/Advman/Widget.php:56
+msgid "Select an ad to display:"
+msgstr ""
+
+#: lib/Advman/Widget.php:58
+msgid "Default Ad"
+msgstr ""
+
+#: lib/Advman/Widget.php:65
+msgid "Hide widget formatting"
+msgstr ""
+
+#: lib/OX/Tools.php:75
+msgid "728 x 90 Leaderboard"
+msgstr ""
+
+#: lib/OX/Tools.php:76
+msgid "468 x 60 Banner"
+msgstr ""
+
+#: lib/OX/Tools.php:77
+msgid "234 x 60 Half Banner"
+msgstr ""
+
+#: lib/OX/Tools.php:78
+msgid "120 x 600 Skyscraper"
+msgstr ""
+
+#: lib/OX/Tools.php:79
+msgid "160 x 600 Wide Skyscraper"
+msgstr ""
+
+#: lib/OX/Tools.php:80
+msgid "300 x 250 Medium Rectangle"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Advertising Manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://github.com/switzer/advertising-manager/wiki"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Control and arrange your Advertising and Referral blocks on your Wordpress "
+"blog. With Widget and inline post support, integration with all major ad "
+"networks."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scott Switzer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://github.com/switzer"
+msgstr ""

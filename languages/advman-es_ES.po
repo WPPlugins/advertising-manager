@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/advertising-manager\n"
+"POT-Creation-Date: 2009-07-02 00:56+0000\n"
+"PO-Revision-Date: 2009-02-17 14:51+0000\n"
+"Last-Translator: Ernesto Vargas <ernesto_vargas@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0\n"
+
+msgid " ago"
+msgstr "hace"
+
+msgid "120 x 600 Skyscraper"
+msgstr "120 x 600 Skyscraper"
+
+msgid "160 x 600 Wide Skyscraper"
+msgstr "160 x 600 Skyscraper Ancho"
+
+msgid "234 x 60 Half Banner"
+msgstr "234 x 60 Medio Anuncio"
+
+msgid "300 x 250 Medium Rectangle"
+msgstr "300 x 250 Rectángulo Mediano"
+
+msgid "468 x 60 Banner"
+msgstr "468 x 60 Anuncio"
+
+msgid "728 x 90 Leaderboard"
+msgstr "728 x 90 Skyscraper Horizontal"
+
+msgid "> 30 days"
+msgstr "> 30 días"
+
+msgid "Account Details"
+msgstr "Detalles Cuenta"
+
+msgid "Account ID:"
+msgstr "ID de la Cuenta :"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Ad Code"
+msgstr "Código del Anuncio"
+
+msgid "Ad Format"
+msgstr "Formato Anuncio"
+
+msgid "Ad Settings"
+msgstr "Opciones del anuncio"
+
+msgid "Ad Status"
+msgstr "Estado del Anuncio"
+
+msgid "Ad Type:"
+msgstr "Tipo de Anuncio:"
+
+msgid "Ad Unit"
+msgstr "Bloque de Anuncios"
+
+msgid "Ads with the same name will rotate according to their relative weights."
+msgstr "Anuncios con el mismo nombre se rotarán de acuerdo a su peso relativo."
+
+msgid "Advertising Manager"
+msgstr "Advertising Manager"
+
+msgid "Advertising Manager supports most Ad networks."
+msgstr ""
+"Advertising Manager es compatible con la mayoría de las Redes de Anuncios."
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Average eCPM:"
+msgstr "Promedio eCPM:"
+
+msgid "Background:"
+msgstr "Fondo:"
+
+msgid "Border:"
+msgstr "Borde:"
+
+msgid "By Author:"
+msgstr "\tPor Autor:"
+
+msgid ""
+"By enabling the OpenX Market, an alternative ad may show if it will make you "
+"more money than the existing ad.  The floor price is the eCPM (revenue per "
+"1000 ads) that your ad network pays."
+msgstr ""
+"Habilitando OpenX Martket, un anuncio alternativo podria mostrar si le hará "
+"ganar más dinero que el anuncio actual. El precio mínimo es el eCPM "
+"(ganancias por cada 1000 anuncios) que su red de Anuncios paga."
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Channel:"
+msgstr "Canal:"
+
+msgid "Clear"
+msgstr "Limpiar"
+
+msgid "Code"
+msgstr "Código"
+
+msgid ""
+"Control and arrange your Advertising and Referral blocks on your Wordpress "
+"blog. With Widget and inline post support, integration with all major ad "
+"networks."
+msgstr ""
+"Controle y organize su Publicidad y los bloques de Referencias en tu blog de "
+"Wordpress. Con Widget y soporte para publiacion entre lineas,  integrado con "
+"las principales redes publicitarias."
+
+msgid "Copy this ad"
+msgstr "\tCopia este anuncio"
+
+msgid "Create New Ad"
+msgstr "Crear Anuncio Nuevo"
+
+msgid "Custom"
+msgstr "Personalizados"
+
+msgid "Custom height for this unit."
+msgstr "Personalizar alto de este banner"
+
+msgid "Custom width for this unit."
+msgstr "Personalizar ancho de este banner"
+
+msgid "Default"
+msgstr "Predeterminado"
+
+msgid "Default floor price:"
+msgstr "Precio mínimo predeterminado:"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "Delete this ad"
+msgstr "Borrar este anuncio"
+
+msgid "Dimensions:"
+msgstr "Dimensiones:"
+
+msgid "Display any notes about this ad here:"
+msgstr "Mostrar notas sobre este anuncio aquí:"
+
+msgid "Format"
+msgstr "Formato"
+
+msgid "Format:"
+msgstr "Formato:"
+
+msgid "HTML Code After"
+msgstr "Código HTML despues"
+
+msgid "HTML Code Before"
+msgstr "Código HTML Antes"
+
+msgid "History"
+msgstr "Historia"
+
+msgid "Identifier:"
+msgstr "Identificador:"
+
+msgid "Image Referral"
+msgstr "Imagen de Referencia"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Import to New Ad Unit&raquo;"
+msgstr "Importar a un Nueva Anuncio&raquo;"
+
+msgid "Last Edit"
+msgstr "Última Edición"
+
+msgid "Last edited"
+msgstr "Última edición"
+
+msgid "Link Unit"
+msgstr "Unidad de Enlace"
+
+msgid "Link:"
+msgstr "Vínculo:"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "No"
+msgstr "No"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Optimization"
+msgstr "Optimización"
+
+msgid "Optimize ads on OpenX Market by default"
+msgstr "Optimizar anuncios en OpenX Market  por defecto"
+
+msgid "Partner ID:"
+msgstr "ID del Socio:"
+
+msgid "Paused"
+msgstr "Pausado"
+
+msgid "Preview"
+msgstr "Vista previa"
+
+msgid "Preview Ad"
+msgstr "Vista Previa del Anuncio"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+msgid "Save Settings"
+msgstr "Guardar Configuración"
+
+msgid "Scott Switzer, Martin Fitzpatrick"
+msgstr "Scott Switzer, Martin Fitzpatrick"
+
+msgid "Select one of the supported ad format sizes."
+msgstr "Seleccione uno de los tamaños de formato de anuncio."
+
+msgid "Settings saved."
+msgstr "Opciones guardadas."
+
+msgid "Shortcuts"
+msgstr "Accesos Directos"
+
+msgid "Simply <strong>paste your Ad Code below</strong> and Import!"
+msgstr ""
+"Simplemente <strong>pegue el Código del Anuncio abajo</ strong> e importerlo!"
+
+msgid "Slot ID:"
+msgstr "ID del Slot:"
+
+msgid "Status Text:"
+msgstr "Texto del Estado:"
+
+msgid "Status:"
+msgstr "Estado:"
+
+msgid "Step 1: Import Your Ad Code"
+msgstr "Paso 1: Importar su Código de Anuncio"
+
+msgid "Text Referral"
+msgstr "Texto de Referencia"
+
+msgid "Text:"
+msgstr "Texto:"
+
+msgid "The last 30 days of revisions are stored for each ad."
+msgstr "Los últimos 30 días de las revisiones se almacenan para cada anuncio."
+
+msgid "Title:"
+msgstr "Título:"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Use Default"
+msgstr "Usar Predeterminado"
+
+msgid ""
+"Weight determines how often this ad is displayed relative to the other ads "
+"with the same name.  A weight of '0' will stop this ad from displaying. "
+"OpenX Market optimised ads will display an alternative ad if it will make "
+"more money than this ad. Set the avarage amount you make from this network "
+"per 1000 ads (eCPM), and Advertising Manager will automatically optimise on "
+"the OpenX Market."
+msgstr ""
+"El peso determina la frecuencia con este anuncio se muestra en relación con "
+"los demás anuncios del mismo nombre. Un peso de '0' dejará de mostrar este "
+"anuncio. OpenX Martket desplegar un anuncio alternativo si le hará ganar más "
+"dinero que este anuncio. Establezca el monto promedio que usted ganan para "
+"esta red por cada 1000 anuncios (eCPM), y Advertising Manager "
+"automáticamente optimizará OpenX Market."
+
+msgid "Weight:"
+msgstr "Peso:"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "[Default]"
+msgstr "[Predeterminado]"
+
+msgid "http://code.openx.org/projects/show/advertising-manager"
+msgstr "http://code.openx.org/projects/show/advertising-manager"

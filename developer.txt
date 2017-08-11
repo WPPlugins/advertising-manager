@@ -1,0 +1,39 @@
+# HOW TO BUILD A DEVELOPMENT ENVIRONMENT
+
+# From OSX, Install Virtual Box and Vagrant
+
+# From your OSX command prompt
+git clone git@github.com:adjs/coreos-vagrant.git
+cd coreos-vagrant
+vagrant up
+vagrant ssh
+
+# Building a new docker file (not needed if you have not updated wordpress)
+docker build --no-cache -t switzer/wordpress /home/core/share/switzer/wordpress/
+
+# From coreos command prompt
+docker run --name mysql -e MYSQL_ROOT_PASSWORD=password -p 3306:3306 -d mysql
+docker run --name wordpress --link mysql:mysql -p 8081:80 -v /home/core/share:/usr/src/code -d switzer/wordpress
+PID=$(docker inspect --format='{{ .State.Pid }}' wordpress)
+sudo nsenter --pid --uts --mount --ipc --net --target $PID
+
+# You will now be inside the docker instance at the command prompt
+ln -s /usr/src/code/wordpress/advertising-manager/trunk /var/www/html/wp-content/plugins/advertising-manager
+exit
+
+# Back to the coreos command prompt
+docker logs -f wordpress
+
+# Start Revive (Publisher)
+docker run --name revive --link mysql:mysql -p 8081:80 -d adjs/docker-adserver
+PID=$(docker inspect --format='{{ .State.Pid }}' revive)
+sudo nsenter --pid --uts --mount --ipc --net --target $PID
+
+# In revive container
+apt-get update
+apt-get install mysql-server
+service mysql restart
+exit
+
+# Translations
+pip install

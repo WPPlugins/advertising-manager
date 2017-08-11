@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/advertising-manager\n"
+"POT-Creation-Date: 2009-07-02 00:56+0000\n"
+"PO-Revision-Date: 2009-04-10 21:53+0100\n"
+"Last-Translator: Heiko Weber <heiko@wecos.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0\n"
+
+msgid " ago"
+msgstr " her"
+
+msgid "(Press Cancel to do nothing, OK to copy)"
+msgstr "(Klicken Sie Abbrechen um nichts zu tun, OK zum Kopieren)"
+
+msgid "(Press Cancel to keep, OK to delete)"
+msgstr "(Klicken Sie Abbrechen um die Werbung zu behalten, OK zum Löschen)"
+
+msgid "120 x 600 Skyscraper"
+msgstr "120 x 600 Skyscraper"
+
+msgid "160 x 600 Wide Skyscraper"
+msgstr "160 x 600 Wide Skyscraper"
+
+msgid "234 x 60 Half Banner"
+msgstr "234 x 60 Half Banner"
+
+msgid "300 x 250 Medium Rectangle"
+msgstr "300 x 250 Medium Rectangle"
+
+msgid "468 x 60 Banner"
+msgstr "468 x 60 Banner"
+
+msgid "728 x 90 Leaderboard"
+msgstr "728 x 90 Leaderboard"
+
+msgid "> 30 days"
+msgstr "> 30 Tage"
+
+msgid "Account Details"
+msgstr "Details des Kundenkontos"
+
+msgid "Account ID:"
+msgstr "ID des Kundenkontos:"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Ad Appearance"
+msgstr "Anzeigendarstellung"
+
+msgid "Ad Code"
+msgstr "Werbe Code"
+
+msgid "Ad Format"
+msgstr "Werbeformat"
+
+msgid "Ad Settings"
+msgstr "Werbeeinstellungen"
+
+msgid "Ad Status"
+msgstr "Werbestatus"
+
+msgid "Ad Type:"
+msgstr "Werbe Typ:"
+
+msgid "Ads"
+msgstr "Werbungen"
+
+msgid "Ads by %s"
+msgstr "Werbungen von %s"
+
+msgid "Advanced Options"
+msgstr "Zusatzoptionen"
+
+msgid "Advertising Manager"
+msgstr "Advertising Manager"
+
+msgid "Advertising Manager supports most Ad networks."
+msgstr "Der Advertising Manager unterstützt die meisten Werbenetzwerke."
+
+msgid "Apply"
+msgstr "Übernehmen"
+
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+msgid "Average eCPM:"
+msgstr "Durchschnittlicher eCPM"
+
+msgid "Background:"
+msgstr "Hintergrund:"
+
+msgid "Border:"
+msgstr "Rahmen:"
+
+msgid "Bulk Actions"
+msgstr "Massenbearbeitung"
+
+msgid "By Author:"
+msgstr "Nach Autor:"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Check for updates"
+msgstr "Auf Updates prüfen"
+
+msgid "Clear"
+msgstr "Leeren"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Copy"
+msgstr "Kopieren"
+
+msgid "Copy this ad"
+msgstr "Diese Werbung kopieren"
+
+msgid "Create Ad"
+msgstr "Werbung erstellen"
+
+msgid "Create New Ad"
+msgstr "Neue Werbung erstellen"
+
+msgid "Custom"
+msgstr "Benutzerdefiniert"
+
+msgid "Custom height for this unit."
+msgstr "Spezielle Höhe für dieses Element."
+
+msgid "Custom width for this unit."
+msgstr "Spezielle Breite für dieses Element."
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Delete this ad"
+msgstr "Diese Werbung löschen"
+
+msgid "Dimensions:"
+msgstr "Größe:"
+
+msgid "Display any notes about this ad here:"
+msgstr "Anzeigen der Bemerkungen über diese Werbung hier:"
+
+msgid "Edit"
+msgstr "Ändern"
+
+msgid "Edit %s Defaults"
+msgstr "Einstellungen für %s ändern"
+
+msgid "Edit Ads"
+msgstr "Werbungen ändern"
+
+msgid "Edit Settings for %s Ad:"
+msgstr "Einstellungen ändern für die Werbung %s:"
+
+msgid "Edit the ad &quot;%s&quot;"
+msgstr "Ändern der Werbung &quot;%s&quot;"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Format:"
+msgstr "Format:"
+
+msgid "HTML Code After"
+msgstr "HTML Code nachher"
+
+msgid "HTML Code Before"
+msgstr "HTML Code vorher"
+
+msgid "History"
+msgstr "Entwicklung"
+
+msgid "Import"
+msgstr "Importieren"
+
+msgid "Import to New Ad Unit&raquo;"
+msgstr "Als neue Werbung importieren&raquo;"
+
+msgid "Last Edit"
+msgstr "Letzte Änderung"
+
+msgid "Last edited"
+msgstr "Letzte Änderung"
+
+msgid "Link:"
+msgstr "Link:"
+
+msgid "Linked Title"
+msgstr "Verlinkter Titel"
+
+msgid "Modify"
+msgstr "Ändern"
+
+msgid "More than %d days ago"
+msgstr "Mehr als %d Tage her"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "Notes"
+msgstr "Bemerkungen"
+
+msgid "OpenX Market Enabled"
+msgstr "OpenX Market aktiviert"
+
+msgid "Optimization"
+msgstr "Optimierung"
+
+msgid "Partner ID:"
+msgstr "Partner ID:"
+
+msgid "Paused"
+msgstr "Pausiert"
+
+msgid "Preview"
+msgstr "Vorschau"
+
+msgid "Preview Ad"
+msgstr "Vorschau der Werbung"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Save &raquo;"
+msgstr "Speichern &raquo;"
+
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+msgid "Scott Switzer, Martin Fitzpatrick"
+msgstr "Scott Switzer, Martin Fitzpatrick"
+
+msgid "Select one of the supported ad format sizes."
+msgstr "Eines der unterstützten Werbeformatgrößen auswählen."
+
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+msgid "Shortcuts"
+msgstr "Tastaturkürzel"
+
+msgid "Simply <strong>paste your Ad Code below</strong> and Import!"
+msgstr "Einfach den <strong>Werbecode unten einfügen</strong> und Importieren!"
+
+msgid "Slot ID:"
+msgstr "Slot ID:"
+
+msgid "Status Text:"
+msgstr "Status Text:"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "Step 1: Import Your Ad Code"
+msgstr "Schritt 1: Importieren des Werbecodes"
+
+msgid "Text:"
+msgstr "Text:"
+
+msgid "The last 30 days of revisions are stored for each ad."
+msgstr ""
+"Die Änderungsübersicht der letzten 30 Tage werden für jede Werbung "
+"gespeichert."
+
+msgid "Title:"
+msgstr "Titel:"
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "Use Default"
+msgstr "Vorgaben verwenden"
+
+msgid "View all ad types"
+msgstr "Alle Werbearten anzeigen"
+
+msgid "View only %s ads"
+msgstr "Nur die %s Werbungen anzeigen"
+
+msgid "Website Display Options"
+msgstr "Anzeigeoptionen der Webseite"
+
+msgid ""
+"Weight determines how often this ad is displayed relative to the other ads "
+"with the same name.  A weight of '0' will stop this ad from displaying. "
+"OpenX Market optimised ads will display an alternative ad if it will make "
+"more money than this ad. Set the avarage amount you make from this network "
+"per 1000 ads (eCPM), and Advertising Manager will automatically optimise on "
+"the OpenX Market."
+msgstr ""
+"Die Gewichtung bestimmt wie oft diese Werbung im Verhältnis zu anderen "
+"Werbungen mit gleichem Namen angezeigt wird. Eine Gewichtung von '0' "
+"verhindert die Anzeige dieser Werbung. Bei über OpenX Market optimierter "
+"Werbung wird eine alternative Werbung angezeigt wenn ein besserer Preis als "
+"mit der eigenen Werbung erzielt werden kann. Tragen Sie den durchschnittlich "
+"erzielten Preis dieses Werbe-Netzwerks pro 1.000 Einblendungen (eCPM) ein "
+"und der Advertising Manager wird die Einblendungen automatisch mit dem OpenX "
+"Market optimieren."
+
+msgid "Weight:"
+msgstr "Gewichtung:"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You are about to copy the %s ad:"
+msgstr "Sie sind dabei die Werbung %s zu kopieren:"
+
+msgid "You are about to permanently delete the %s ad:"
+msgstr "Sie sind dabei die Werbung %s endgültig zu löschen:"
+
+msgid "[Default]"
+msgstr "[Vorgabe]"
+
+msgid "ago"
+msgstr " her"
+
+msgid "by"
+msgstr "von"
+
+msgid "by Unknown"
+msgstr "von Unbekannt"
+
+msgid "http://code.openx.org/projects/show/advertising-manager"
+msgstr "http://code.openx.org/projects/show/advertising-manager"
+
+msgid "www.advertiser-url.com"
+msgstr "www.advertiser-url.com"

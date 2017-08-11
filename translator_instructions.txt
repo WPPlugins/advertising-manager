@@ -1,0 +1,19 @@
+// INSTRUCTIONS TO TRANSLATE ON TRANSIFEX
+
+1. An email will be sent to you
+   -if you have a Transifex account:
+	Click on your team and it will redirect you to the page mentioned in #2.
+	Follow remaining steps.
+   -if you DO NOT have a Transifex account:
+	Click the link provided and follow steps to create an account.
+
+2. After #1, you will see a page that shows your teams, languages and projects.
+
+3. Click on Dashboard, then scroll down to your find language.
+
+4. Click ‘Advertising Manager -> advertising-manager.pot’ 
+
+5. Click ‘Translate Now’ to begin translating.
+
+6. Don’t forget to save.
+

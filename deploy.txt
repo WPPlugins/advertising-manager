@@ -1,0 +1,52 @@
+// HERE IS HOW TO DEPLOY A VERSION OF ADVERTISING MANAGER
+
+TRANSLATIONS
+- Generate a new POT file
+
+cd ~/code/wordpress/advertising-manager/trunk
+php ../../tools/i18n/makepot.php wp-plugin .
+mv ./advertising-manager.pot ./languages
+tx pull -a
+cd ~/code/wordpress/advertising-manager/trunk/languages
+msgfmt -o advman-ar.mo advman-ar.po
+msgfmt -o advman-de_DE.mo advman-de_DE.po
+msgfmt -o advman-el.mo advman-el.po
+msgfmt -o advman-en_US.mo advman-en_US.po
+msgfmt -o advman-es_ES.mo advman-es_ES.po
+msgfmt -o advman-hu_HU.mo advman-hu_HU.po
+msgfmt -o advman-id_ID.mo advman-id_ID.po
+msgfmt -o advman-ja.mo advman-ja.po
+msgfmt -o advman-ko_KR.mo advman-ko_KR.po
+msgfmt -o advman-pt_BR.mo advman-pt_BR.po
+msgfmt -o advman-ru_RU.mo advman-ru_RU.po
+msgfmt -o advman-th.mo advman-th.po
+msgfmt -o advman-tr.mo advman-tr.po
+svn ci . -m "Updated i18n languages and source files"
+
+
+INCREASE VERSION NUMBER
+    1.  in the comments at the top of advertising-manager.php
+    2.  in the code at the top of advertising-manager.php
+    3.  in the readme file (stable tag at the top)
+    4.  In the readme file (Changelog)
+    5.  Upgrade Wordpress tested version in readme file (at the top)
+    6.  in this build file (search for the version number 3.5.3 - there are a number of places in this file where the version exists)
+    7.  check the upgrade to make sure any version upgrades are correct
+
+README
+    1.  Add to the changelog
+    2.  Add the update message
+    3.  Update the Readme.txt file with any changes in documentation.  Validate here:
+        http://wordpress.org/extend/plugins/about/validator/
+
+CHECK IN ALL FILES
+- Add any files that need adding
+    cd ~/code/wordpress/advertising-manager/trunk
+    svn st
+        
+
+DEPLOYMENT
+- Tag the version in wordpress
+    cd ~/code/wordpress/advertising-manager
+    svn cp trunk tags/3.5.3
+    svn ci -m "tagging version 3.5.3"

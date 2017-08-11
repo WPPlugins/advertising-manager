@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[advertising-manager.advertising-managerpot]
+file_filter = languages/advman-<lang>.po
+source_lang = en
+type = PO
+

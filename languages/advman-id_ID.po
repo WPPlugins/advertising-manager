@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/advertising-manager\n"
+"POT-Creation-Date: 2009-07-02 00:56+0000\n"
+"PO-Revision-Date: 2009-02-21 20:51+0700\n"
+"Last-Translator: Imam Musthaqim <userindesign@gmail.com>\n"
+"Language-Team: INDONESIAN <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0\n"
+
+msgid " ago"
+msgstr " yang lalu"
+
+msgid "120 x 600 Skyscraper"
+msgstr "120 x 600 Pencakar Langit"
+
+msgid "160 x 600 Wide Skyscraper"
+msgstr "160 x 600 Pencakar Langit Lebar"
+
+msgid "234 x 60 Half Banner"
+msgstr "234 x 60 Banner Setengah"
+
+msgid "300 x 250 Medium Rectangle"
+msgstr "300 x 250 Segi Empat Sedang"
+
+msgid "468 x 60 Banner"
+msgstr "468 x 60 Banner"
+
+msgid "728 x 90 Leaderboard"
+msgstr "728 x 90 Papan skor"
+
+msgid "> 30 days"
+msgstr "> 30 hari"
+
+msgid "Account Details"
+msgstr "Rincian Akun"
+
+msgid "Account ID:"
+msgstr "ID Akun:"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Ad Code"
+msgstr "Kode Iklan"
+
+msgid "Ad Format"
+msgstr "Format Iklan"
+
+msgid "Ad Settings"
+msgstr "Setelan Iklan"
+
+msgid "Ad Status"
+msgstr "Status Iklan"
+
+msgid "Ad Type:"
+msgstr "Jenis Iklan:"
+
+msgid "Ad Unit"
+msgstr "Unit Iklan"
+
+msgid "Ads with the same name will rotate according to their relative weights."
+msgstr "Iklan dengan nama yang sama akan dirotasi sesuai bobot relatifnya."
+
+msgid "Advertising Manager"
+msgstr "Manajer Iklan"
+
+msgid "Advertising Manager supports most Ad networks."
+msgstr "Manajer Iklan mendukung hampir semua jaringan iklan"
+
+msgid "Apply"
+msgstr "Terapkan"
+
+msgid "Average eCPM:"
+msgstr "eCPM Rata-Rata:"
+
+msgid "Background:"
+msgstr "Latar Belakang:"
+
+msgid "Border:"
+msgstr "Border:"
+
+msgid "By Author:"
+msgstr "Oleh Penulis:"
+
+msgid ""
+"By enabling the OpenX Market, an alternative ad may show if it will make you "
+"more money than the existing ad.  The floor price is the eCPM (revenue per "
+"1000 ads) that your ad network pays."
+msgstr ""
+"Dengan mengaktifkan OpenX Market, iklan alternatif dapat ditampilkan jika ia "
+"lebih menguntungkan daripada iklan yang ada.  Harga dasar adalah eCPM "
+"(pendapatan per 1000 iklan) yang dibayarkan jaringan iklan Anda."
+
+msgid "Cancel"
+msgstr "Batalkan"
+
+msgid "Channel:"
+msgstr "Saluran:"
+
+msgid "Clear"
+msgstr "Bersihkan"
+
+msgid "Code"
+msgstr "Kode"
+
+msgid ""
+"Control and arrange your Advertising and Referral blocks on your Wordpress "
+"blog. With Widget and inline post support, integration with all major ad "
+"networks."
+msgstr ""
+"Kontrol dan tata berbagai blok Iklan dan Perujuk di blog Wordpress Anda. "
+"Dengan Widget dan dukungan posting inline, berintegrasi dengan semua "
+"jaringan iklan besar."
+
+msgid "Copy this ad"
+msgstr "Salin iklan ini"
+
+msgid "Create New Ad"
+msgstr "Buat Iklan Baru"
+
+msgid "Custom"
+msgstr "Khusus"
+
+msgid "Custom height for this unit."
+msgstr "Tinggi khusus untuk unit ini."
+
+msgid "Custom width for this unit."
+msgstr "Lebar khusus untuk unit ini."
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Default floor price:"
+msgstr "Harga dasar default:"
+
+msgid "Delete"
+msgstr "Hapus"
+
+msgid "Delete this ad"
+msgstr "Hapus iklan ini"
+
+msgid "Dimensions:"
+msgstr "Dimensi:"
+
+msgid "Display any notes about this ad here:"
+msgstr "Tampilkan catatan mengenai iklan ini di sini:"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Format:"
+msgstr "Format:"
+
+msgid "HTML Code After"
+msgstr "Kode HTML Setelah"
+
+msgid "HTML Code Before"
+msgstr "Kode HTML Sebelum"
+
+msgid "History"
+msgstr "Riwayat"
+
+msgid "Identifier:"
+msgstr "Pengenal:"
+
+msgid "Image Referral"
+msgstr "Perujukan Gambar"
+
+msgid "Import"
+msgstr "Impor"
+
+msgid "Import to New Ad Unit&raquo;"
+msgstr "Impor ke Unit&raquo; Iklan Baru"
+
+msgid "Last Edit"
+msgstr "Terakhir Diedit"
+
+msgid "Last edited"
+msgstr "Terakhir diedit"
+
+msgid "Link Unit"
+msgstr "Unit Link"
+
+msgid "Link:"
+msgstr "Link:"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "No"
+msgstr "Tidak"
+
+msgid "Notes"
+msgstr "Catatan"
+
+msgid "Optimization"
+msgstr "Optimisasi"
+
+msgid "Optimize ads on OpenX Market by default"
+msgstr "Optimalkan iklan pada OpenX Market secara default"
+
+msgid "Partner ID:"
+msgstr "ID Rekanan:"
+
+msgid "Paused"
+msgstr "Berhenti"
+
+msgid "Preview"
+msgstr "Pratayang"
+
+msgid "Preview Ad"
+msgstr "Pratayang Iklan"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+msgid "Save Settings"
+msgstr "Simpan Setelan"
+
+msgid "Scott Switzer, Martin Fitzpatrick"
+msgstr "Scott Switzer, Martin Fitzpatrick"
+
+msgid "Select one of the supported ad format sizes."
+msgstr "Pilih salah satu ukuran format iklan yang didukung."
+
+msgid "Settings saved."
+msgstr "Setelan telah disimpan."
+
+msgid "Shortcuts"
+msgstr "Pintasan"
+
+msgid "Simply <strong>paste your Ad Code below</strong> and Import!"
+msgstr ""
+"Tinggal <strong>tempelkan Kode Iklan Anda di bawah ini</strong> dan Impor!"
+
+msgid "Slot ID:"
+msgstr "ID Slot:"
+
+msgid "Status Text:"
+msgstr "Teks Status:"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "Step 1: Import Your Ad Code"
+msgstr "Langkah 1: Impor Kode Iklan Anda"
+
+msgid "Text Referral"
+msgstr "Perujukan Teks"
+
+msgid "Text:"
+msgstr "Teks:"
+
+msgid "The last 30 days of revisions are stored for each ad."
+msgstr "Revisi 30 hari terakhir disimpan untuk setiap iklan."
+
+msgid "Title:"
+msgstr "Judul:"
+
+msgid "Type"
+msgstr "Jenis"
+
+msgid "Use Default"
+msgstr "Gunakan Default"
+
+msgid ""
+"Weight determines how often this ad is displayed relative to the other ads "
+"with the same name.  A weight of '0' will stop this ad from displaying. "
+"OpenX Market optimised ads will display an alternative ad if it will make "
+"more money than this ad. Set the avarage amount you make from this network "
+"per 1000 ads (eCPM), and Advertising Manager will automatically optimise on "
+"the OpenX Market."
+msgstr ""
+"Bobot menentukan seberapa sering iklan ini ditampilkan sehubungan dengan "
+"iklan lain dengan nama yang sama.  Bobot '0' akan menghentikan iklan ini "
+"ditampilkan. Iklan yang dioptimalkan untuk OpenX Market akan menampilkan "
+"iklan alternatif jika ia akan lebih menguntungkan daripada iklan ini. Setel "
+"jumlah rata-rata yang Anda buat dari jaringan ini per 1.000 iklan (eCPM), "
+"dan Advertising Manager akan secara otomatis mengoptimalkannya pada OpenX "
+"Market."
+
+msgid "Weight:"
+msgstr "Bobot:"
+
+msgid "Yes"
+msgstr "Ya"
+
+msgid "[Default]"
+msgstr "[Default]"
+
+msgid "http://code.openx.org/projects/show/advertising-manager"
+msgstr "http://code.openx.org/projects/show/advertising-manager"

@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/advertising-manager\n"
+"POT-Creation-Date: 2009-07-02 00:56+0000\n"
+"PO-Revision-Date: 2009-03-08 00:20+0000\n"
+"Last-Translator: Kaan <kaanunal@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0\n"
+
+msgid " ago"
+msgstr "önce"
+
+msgid "(Press Cancel to do nothing, OK to copy)"
+msgstr "(Hiçbir şey yapmamak için İptal'e, kopyalamak için OK'e basın)"
+
+msgid "(Press Cancel to keep, OK to delete)"
+msgstr "(Tutmak için İptal'e, silmek için OK'e basın)"
+
+msgid "120 x 600 Skyscraper"
+msgstr "120 x 600 Gökdelen"
+
+msgid "160 x 600 Wide Skyscraper"
+msgstr "160 x 600 Geniş Gökdelen"
+
+msgid "234 x 60 Half Banner"
+msgstr "234 x 60 Yarım Banner"
+
+msgid "300 x 250 Medium Rectangle"
+msgstr "300 x 250 Orta Dikdörtgen "
+
+msgid "468 x 60 Banner"
+msgstr "468 x 60 Banner"
+
+msgid "728 x 90 Leaderboard"
+msgstr "728 x 90 Sayı Tahtası"
+
+msgid "> 30 days"
+msgstr "> 30 gün"
+
+msgid "Account Details"
+msgstr "Hesap Ayrıntıları"
+
+msgid "Account ID:"
+msgstr "Hesap Kimliği:"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Ad Code"
+msgstr "Reklam Kodu"
+
+msgid "Ad Format"
+msgstr "Biçim Ekle"
+
+msgid "Ad Settings"
+msgstr "Reklam Ayarları"
+
+msgid "Ad Status"
+msgstr "Durum Ekle"
+
+msgid "Ad Type:"
+msgstr "Reklam Türü:"
+
+msgid "Ad Unit"
+msgstr "Reklam Birimi"
+
+msgid "Ads"
+msgstr "Reklamlar"
+
+msgid "Ads by %s"
+msgstr "%s'e göre reklamlar"
+
+msgid "Ads with the same name will rotate according to their relative weights."
+msgstr "Aynı adlı reklamlar göreceli ağırlıklarına göre döndürüleceklerdir."
+
+msgid "Advanced Options"
+msgstr "Gelişmiş Seçenekleri"
+
+msgid "Advertiser's ad text here"
+msgstr "Buraya reklam verenin reklam metni"
+
+msgid "Advertising Manager"
+msgstr "Reklam Yöneticisi"
+
+msgid "Advertising Manager supports most Ad networks."
+msgstr "Reklam Yöneticisi birçok Reklam ağını destekler"
+
+msgid "Apply"
+msgstr "Uygula"
+
+msgid "Are you sure?"
+msgstr "Eminmisiniz?"
+
+msgid "Average eCPM:"
+msgstr "Ortalama eCPM:"
+
+msgid "Background:"
+msgstr "Arkaplan:"
+
+msgid "Border:"
+msgstr "Sınır:"
+
+msgid "Bulk Actions"
+msgstr "Toplu Eylemler"
+
+msgid "By Author:"
+msgstr "Yazar tafından:"
+
+msgid ""
+"By enabling the OpenX Market, an alternative ad may show if it will make you "
+"more money than the existing ad.  The floor price is the eCPM (revenue per "
+"1000 ads) that your ad network pays."
+msgstr ""
+"OpenX Market’i etkinleştirerek, mevcut reklamdan daha fazla para yapacaksanız"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Channel:"
+msgstr "Kanal:"
+
+msgid "Check for updates"
+msgstr "Güncellemeleri kontrol et"
+
+msgid ""
+"Checking for updates will keep you informed of not only updates, but of any "
+"offers from advertisers who want to buy your ad space."
+msgstr ""
+"Güncellemelerin kontrol edilmesi sadece güncellemeler hakkında bilgi vermez, "
+"ayrıca reklam alanınızı satın almak isteyen reklam vericilerin teklifleri "
+"hakkında da sizi bilgilendirir."
+
+msgid "Clear"
+msgstr "Temizle"
+
+msgid "Code"
+msgstr "Kod"
+
+msgid ""
+"Control and arrange your Advertising and Referral blocks on your Wordpress "
+"blog. With Widget and inline post support, integration with all major ad "
+"networks."
+msgstr ""
+"Wordpress bloğunuzdaki Reklâm ve Yönlendirme bloklarını kontrol edin ve"
+
+msgid "Copy"
+msgstr "Kopyala"
+
+msgid "Copy this ad"
+msgstr "Bu reklamı kopyala"
+
+msgid "Create Ad"
+msgstr "Reklam Oluştur"
+
+msgid "Create New"
+msgstr "Yeni Oluştur"
+
+msgid "Create New Ad"
+msgstr "Yeni Reklam Oluştur"
+
+msgid "Custom"
+msgstr "Özel"
+
+msgid "Custom height for this unit."
+msgstr "Bu birim için özel yükseklik"
+
+msgid "Custom width for this unit."
+msgstr "Bu birim için özel genişlik"
+
+msgid "Default"
+msgstr "Varsayılan"
+
+msgid "Default floor price:"
+msgstr "Varsayılan taban fiyat:"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Delete this ad"
+msgstr "Bu reklamı sil"
+
+msgid "Dimensions:"
+msgstr "Boyutlar:"
+
+msgid "Display any notes about this ad here:"
+msgstr "Bu reklam hakkındaki notları burada göster"
+
+msgid "Edit"
+msgstr "Düzen"
+
+msgid "Edit %s Defaults"
+msgstr "%s Varsayılanlarını Düzenle"
+
+msgid "Edit Ads"
+msgstr "Reklamları Düzenle"
+
+msgid "Edit Settings for %s Ad:"
+msgstr "%s Reklamı Ayarlarını Düzenle:"
+
+msgid "Edit the ad &quot;%s&quot;"
+msgstr "&quot;%s&quot; reklamını düzenle"
+
+msgid "Edit the ad network &quot;%s&quot;"
+msgstr "&quot;%s&quot; reklam ağını düzenle"
+
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Format"
+msgstr "Biçim"
+
+msgid "Format:"
+msgstr "Biçim:"
+
+msgid "HTML Code After"
+msgstr "HTML Kodu Sonra"
+
+msgid "HTML Code Before"
+msgstr "HTML Kodu Önce"
+
+msgid "History"
+msgstr "Geçmiş"
+
+msgid "Identifier:"
+msgstr "Tanımlayıcı:"
+
+msgid "Image Referral"
+msgstr "Görüntü Kaynağı"
+
+msgid "Import"
+msgstr "İçe aktar"
+
+msgid "Import to New Ad Unit&raquo;"
+msgstr "Yeni Reklam Birim&raquo içe aktar;"
+
+msgid "Last Edit"
+msgstr "Son Düzen"
+
+msgid "Last edited"
+msgstr "En son düzenlenen"
+
+msgid "Link Unit"
+msgstr "Bağlantı Birimi"
+
+msgid "Link:"
+msgstr "Bağlantı:"
+
+msgid "Linked Title"
+msgstr "Bağlantılı Başlık"
+
+msgid "Manage Your Advertising"
+msgstr "Reklamınızı Yönetin"
+
+msgid "Modify"
+msgstr "Değiştir"
+
+msgid "More than %d days ago"
+msgstr "%d gün önceden daha fazla"
+
+msgid "Name"
+msgstr "İsim"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "Notes"
+msgstr "Notlar"
+
+msgid "OpenX Market Enabled"
+msgstr "OpenX Market Etkin"
+
+msgid "Optimization"
+msgstr "Optimizasyon"
+
+msgid "Optimize ads on OpenX Market by default"
+msgstr "Varsayılan olarak OpenX Market’teki reklamları optimize et"
+
+msgid "Partner ID:"
+msgstr "Ortak Kimlik:"
+
+msgid "Paused"
+msgstr "Duraklatıldı"
+
+msgid "Preview"
+msgstr "Önizle"
+
+msgid "Preview Ad"
+msgstr "Reklamı Önizle"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Save &raquo;"
+msgstr "Kaydet &raquo;"
+
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
+
+msgid "Scott Switzer, Martin Fitzpatrick"
+msgstr " Scott Switzer, Martin Fitzpatrick "
+
+msgid "Select one of the supported ad format sizes."
+msgstr "Desteklenen reklam biçimi boyutlarından birini seçin."
+
+msgid "Settings saved."
+msgstr "Ayarlar kaydedildi."
+
+msgid "Shortcuts"
+msgstr "Kısayollar"
+
+msgid "Simply <strong>paste your Ad Code below</strong> and Import!"
+msgstr ""
+"Sadece <strong> Reklam Kodunuzu aşağıya yapıştırın</strong> ve İçe Aktarın!"
+
+msgid "Slot ID:"
+msgstr "Yuva Kimliği:"
+
+msgid "Status Text:"
+msgstr "Durum Metni:"
+
+msgid "Status:"
+msgstr "Durum:"
+
+msgid "Step 1: Import Your Ad Code"
+msgstr "Adım 1: Reklam Kodunuzu İçe Aktarın"
+
+msgid "Text Referral"
+msgstr "Metin Kaynağı"
+
+msgid "Text:"
+msgstr "Metin:"
+
+msgid "The last 30 days of revisions are stored for each ad."
+msgstr "Her bir reklam için son 30 revizyon günü depolanır."
+
+msgid "Title:"
+msgstr "Başlık:"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+msgid "Updates"
+msgstr "Güncellemeler"
+
+msgid "Use Default"
+msgstr "Varsayılanı Kullan"
+
+msgid "View active ads only"
+msgstr "Sadece aktif reklamları görüntüle"
+
+msgid "View all ad statuses"
+msgstr "Tüm reklam durumlarını görüntüle"
+
+msgid "View all ad types"
+msgstr "Tüm reklam türlerini görüntüle"
+
+msgid "View only %s ads"
+msgstr "Sadece %s reklamlarını görüntüle"
+
+msgid "View paused ads only"
+msgstr "Sadece duraklatılmış reklamları görüntüle"
+
+msgid ""
+"Weight determines how often this ad is displayed relative to the other ads "
+"with the same name.  A weight of '0' will stop this ad from displaying. "
+"OpenX Market optimised ads will display an alternative ad if it will make "
+"more money than this ad. Set the avarage amount you make from this network "
+"per 1000 ads (eCPM), and Advertising Manager will automatically optimise on "
+"the OpenX Market."
+msgstr "Ağırlık, bu reklamın diğer reklamlara göre aynı isim ile"
+
+msgid "Weight:"
+msgstr "Ağırlık:"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "You are about to copy the %s ad:"
+msgstr "%s reklamını kopyalamak üzeresiniz:"
+
+msgid "You are about to permanently delete the %s ad:"
+msgstr "%s reklamını kalıcı olarak silmek üzeresiniz:"
+
+msgid "[Default]"
+msgstr "[Varsayılan]"
+
+msgid "ago"
+msgstr "önce"
+
+msgid "by"
+msgstr "tarafından"
+
+msgid "by Unknown"
+msgstr "Bilinmeyen tarafından"
+
+msgid "http://code.openx.org/projects/show/advertising-manager"
+msgstr " http://code.openx.org/projects/show/advertising-manager "
+
+msgid "www.advertiser-url.com"
+msgstr "www.advertiser-url.com"
